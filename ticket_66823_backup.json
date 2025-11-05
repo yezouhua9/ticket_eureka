@@ -1,0 +1,280 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/66823.json",
+  "id": 66823,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "ebay@reply.ebay.com",
+        "name": "eBay"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2022-12-20T18:56:31Z",
+  "updated_at": "2023-01-18T08:29:15Z",
+  "generated_timestamp": 1674030555,
+  "type": "incident",
+  "subject": "Get every gift on your list and more",
+  "raw_subject": "Get every gift on your list and more",
+  "description": "Shop rare and unique finds.\n\nView in browser  (https://svcs.ebay.com/imageser/v1/image/digestinbrowser?id=45166036817&loc=en-US&tv=MzJjYWI1MWQtOWUzYy00NzQyLWE5NDEtMWEwN2IyMjFlM2Y5XzI4NA%3D%3D&0=NULL&1=NULL&2=0A49AD87-868EDEA17FE-0185296EAAE0-00000000004DE5F0&3=0&4=0&5=TE73001_T_AGM&6=NULL&7=3&8=0&9=0&10=AQAIAAAAQHmhDpjhjCVMnlA7pM1lIB6wTYJBGirureshKfL7nkiJlGW9LZBaIhNNbriCiNHEmxi_eMPTBY23vw3g-Tu1Kw0&11=NDUxNjYwMzY4MTc%3D&12=0&13=0&14=0&15=0&16=default&17=-1&18=M&19=1671552300&20=0&21=0&22=0&23=0&24=0&25=NULL&26=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&27=0&28=NULL&29=AGM&30=NULL&31=20221220090500&32=0&33=0&34=0&35=0&36=2317541948&37=NULL&38=0&39=0&40=0&41=TE73001_T_AGM&42=AQAIAAAAIJAVPaqh38oWotDVyEqVwRsmfitR0ty0q3m303IHGuHv&43=AQAIAAAAIEKJu9J0fmVhrMKdC5KxPukCYwa8y0A6lqsVQ57Y21Lr&44=0&45=AQAIAAAAIE8K2UtcZV8hvXSTBDsUosezRiweQCEcnuwUx9rrTL1M&46=ELEC&47=0&48=0&49=0&50=0&51=0&newVibEncoding=true&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)\n\nFashion  (https://www.ebay.com/b/Fashion/bn_7000259856/?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=10002&placement-type=navifashion&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=navifashion&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)      Home & Garden  (https://www.ebay.com/b/Home-Garden/11700/bn_1853126/?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=10004&placement-type=navihng&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=navihng&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)      Electronics  (https://www.ebay.com/b/Electronics/bn_7000259124/?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=10006&placement-type=navielec&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=navielec&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)      Motors  (https://www.ebay.com/b/Auto-Parts-and-Vehicles/6000/bn_1865334/?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=10008&placement-type=navimotors&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=navimotors&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)      Daily Deals  (https://www.ebay.com/deals/?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=10010&placement-type=navideals&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=navideals&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)\n\nToday's top deals  (https://www.ebay.com/deals/?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=30000&placement-type=headline&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=headline&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)\n\nSee all  ➔  (https://www.ebay.com/deals/?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=30000&placement-type=headline&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=headline&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)\n\niRobot Roomba E5 (5150) Vacuum...\n\n (https://www.ebay.com/itm/385188622111?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=30000&placement-type=curatedDeals&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=curatedDeals&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)\n\n$99.99\n\n$379.99 | 74% OFF\n\nSamsung G970 Galaxy S10e 128GB...\n\n (https://www.ebay.com/itm/382980837076?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=30001&placement-type=curatedDeals&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=curatedDeals&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)\n\n$119.95\n\n$800.00 | 85% OFF\n\nAKG Y600NC Bluetooth Wireless...\n\n (https://www.ebay.com/itm/394273275894?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=30002&placement-type=curatedDeals&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=curatedDeals&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)\n\n$79.95\n\n$349.99 | 77% OFF\n\nLenovo ThinkPad T14s Gen 2...\n\n (https://www.ebay.com/itm/175504664459?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=30003&placement-type=curatedDeals&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=curatedDeals&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)\n\n$1,022.99\n\n$3,309.00 | 69% OFF\n\nSponsored\n\nCrocs Bayaband Chevron Band...\n\n (https://www.ebay.com/itm/144810226962?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=30004&placement-type=curatedDeals&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=curatedDeals&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)\n\n$22.00\n\n$54.99 | 60% OFF\n\nmini cologne Versace Eros for...\n\n (https://www.ebay.com/itm/400880988940?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=30005&placement-type=curatedDeals&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=curatedDeals&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)\n\n$8.98\n\n$20.00 | 55% OFF\n\nSamsung Galaxy Watch 4 40mm...\n\n (https://www.ebay.com/itm/314242989338?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=30006&placement-type=curatedDeals&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=curatedDeals&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)\n\n$94.99\n\n$300.00 | 68% OFF\n\nWX051 WORX Pegasus Folding...\n\n (https://www.ebay.com/itm/393852808704?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=30007&placement-type=curatedDeals&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=curatedDeals&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)\n\n$94.99\n\n$179.99 | 47% OFF\n\nDon’t miss these shopping events  (https://www.ebay.com/b/Sales-Events/bn_7115049177?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=33000&placement-type=headline&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=headline&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)\n\nSee all  ➔  (https://www.ebay.com/b/Sales-Events/bn_7115049177?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=33000&placement-type=headline&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=headline&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)\n\nGift more for less  (https://www.ebay.com/e/_electronics/ebay-refurbished-tech?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=33000&placement-type=curatedEvents&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=curatedEvents&rpp_cid=637e6ab8e7e310042cf15c92&rank=1&cs=0&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)\n\nShop eBay Refurbished top brands.\n\n60% off Home Office Furniture  (https://www.ebay.com/e/home-garden/modway-home-office?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=33001&placement-type=curatedEvents&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=curatedEvents&rpp_cid=63853ee71e1643044ba73839&rank=3&cs=0&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)\n\nDirect from Modway.\n\nUp to 60% off the gift guide  (https://www.ebay.com/e/fashion/gift-guides-beauty-11-14-22?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=33002&placement-type=curatedEvents&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=curatedEvents&rpp_cid=634dac91d036b2e8e73cb9b4&rank=4&cs=0&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)\n\nSave big on beauty must-haves.\n\nWrite off expenses with Sec. 179  (https://www.ebay.com/e/b&i/section-179-120522?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=33003&placement-type=curatedEvents&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=curatedEvents&rpp_cid=636c2976087fee272e03c172&rank=5&cs=0&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood)\n\nPurchase up to $1M by Dec 31st.\n\nLearn more (https://www.ebay.com/help/account/protecting-account/recognising-spoof-emails?id=4195&campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=0&placement-type=footerLearn&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=footerLearn&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood) to protect yourself from spoof (fake) e-mails.\n\neBay Inc. sent this e-mail to you at customerservice@eurekaergonomic.com because your Notification Preferences indicate that you want to receive general email promotions.\n\nIf you do not wish to receive further communications like this, please unsubscribe (https://marketing.ebay.com/unsubscribe/home?token=AQAIAAAAkBQyFUJlaorbQFLeVGaYk0raI7nW2r4mND_Q0_I04TTLWxesb2fsXjX1PKJLlnlc3FPMnTwqhB8rdYKErsy91kjg745F6PZngtBODFLm1igjguHuP_G5NuEx1EWuFt7W0FdXPf4BMEYI_DOwZpjMmew-b4cXhGI2NY70n3xniSegUutkcQTF5moKu2YjmEp23w) . Alternatively, you can change your Notification Preferences (https://commspreferences.ebay.com/commsprefs?campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=0&placement-type=footerPreferences&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=footerPreferences&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood) in My eBay. Please note that it may take up to 10 days to process your request.\n\nVisit our Privacy Notice (https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260&campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=0&placement-type=footerPrivacy&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=footerPrivacy&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood) and User Agreement (https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement?id=4259&campaign-id=90001&run-date=20221220090500&TemplateId=32cab51d-9e3c-4742-a941-1a07b221e3f9&TemplateVersion=284&co=0&placement-type=footerAgreement&user-id=45166036817&instance=1671552300&site-id=0&TrackingCode=TE73001_T_AGM&placement-type-name=footerAgreement&mkevt=1&mkpid=2&emsid=0&mkcid=8&bu=45166036817&osub=4a3c7a93b353cb5e4478730f20516720%257ETE73001_T_AGM&segname=TE73001_T_AGM&crd=20221220090500&ch=osgood) if you have any questions.\n\n© 1995-2022 eBay Inc., 2145 Hamilton Avenue, San Jose, CA 95125.",
+  "priority": null,
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 418754166332,
+  "submitter_id": 418754166332,
+  "assignee_id": 421568501372,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "n/a",
+    "no",
+    "no_store",
+    "other"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "n/a"
+    },
+    {
+      "id": 360036048231,
+      "value": "no_store"
+    },
+    {
+      "id": 360035265932,
+      "value": "n/a"
+    },
+    {
+      "id": 14609897500813,
+      "value": null
+    },
+    {
+      "id": 14751510608525,
+      "value": null
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": null
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "9VL25Y-MLXJJ",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "n/a"
+    },
+    {
+      "id": 360036048231,
+      "value": "no_store"
+    },
+    {
+      "id": 360035265932,
+      "value": "n/a"
+    },
+    {
+      "id": 14609897500813,
+      "value": null
+    },
+    {
+      "id": 14751510608525,
+      "value": null
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": null
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

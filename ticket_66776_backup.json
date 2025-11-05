@@ -1,0 +1,281 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/66776.json",
+  "id": 66776,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "c.j.bowen@comcast.net",
+        "name": "C J Bowen"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2022-12-20T08:49:42Z",
+  "updated_at": "2023-01-18T08:29:18Z",
+  "generated_timestamp": 1674030558,
+  "type": "incident",
+  "subject": "'c.j.bowen@comcast.net' submitted the form from your 'Contact Us' page",
+  "raw_subject": "'c.j.bowen@comcast.net' submitted the form from your 'Contact Us' page",
+  "description": "'c.j.bowen@comcast.net' submitted the form from your 'Contact Us' page\n\nA user has submitted the contact form on your store.\n\nHere are their details:\n\nFull Name: CJ Bowen\nEmail Address: c.j.bowen@comcast.net\nCompany Name:\nPhone Number: 4434743951\nOrder Number: Amazon # 112-1353068-0105819\n\nHi I’m noticing some tears in my mouse pad. I have the full desk mouse pad. I was wondering I’d you guys offer replacements for it? Thank you\n\nThank You for Shopping with\n\n14821 Northam St, La Mirada, CA 90638\n\nCall (844) 416-2090\n\n-------------------------------",
+  "priority": null,
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 11600179600525,
+  "submitter_id": 11600179600525,
+  "assignee_id": 421568501372,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "n/a",
+    "no",
+    "no_store",
+    "product_quality_issue",
+    "product_quality_issues-damaged_from_wear"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "n/a"
+    },
+    {
+      "id": 360036048231,
+      "value": "no_store"
+    },
+    {
+      "id": 360035265932,
+      "value": "n/a"
+    },
+    {
+      "id": 14609897500813,
+      "value": null
+    },
+    {
+      "id": 14751510608525,
+      "value": null
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": null
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "L7JJR9-MK2G3",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "n/a"
+    },
+    {
+      "id": 360036048231,
+      "value": "no_store"
+    },
+    {
+      "id": 360035265932,
+      "value": "n/a"
+    },
+    {
+      "id": 14609897500813,
+      "value": null
+    },
+    {
+      "id": 14751510608525,
+      "value": null
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": null
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

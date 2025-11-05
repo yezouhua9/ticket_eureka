@@ -1,0 +1,281 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/66832.json",
+  "id": 66832,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "planasigns@gmail.com",
+        "name": "Luis Robles"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2022-12-20T19:46:40Z",
+  "updated_at": "2023-01-20T08:29:00Z",
+  "generated_timestamp": 1674203340,
+  "type": "incident",
+  "subject": "Re: Eureka Ergonomic 40843",
+  "raw_subject": "Re: Eureka Ergonomic 40843",
+  "description": "That is correct , I want it shipped to my house due to ups and fed ex showing up after business hours in some occasions therefor we send things to my home address so there are no confusions, thanks  \n\nSent from my iPhone\n\nOn Dec 20, 2022, at 12:54 PM, customerservice <customerservice@eurekaergonomic.com> wrote:\n\n﻿\nDear Customer, \n\nYour order 40843 has been flagged as a Manual Verification due to a mismatch of your billing and shipping address, which indicates a potential credit card fraud.\n\n\nThis is your current billing address\n\nLuis Robles\n2916 S fort hood st\nKilleen , Texas 76542\n\n\n\n\nThis is your current shipping address\n\nLuis Robles\n1414 Creek Place Dr\nKilleen , Texas 76549\n\n\n\n\nTo protect our customer’s interests, we ask that you provide proof of ownership as the cardholder. A government-issued ID, or billing documents that include the customer's name, and a valid address are good examples of supporting evidence. Please also include a brief explanation as to why the shipping address is different than the billing address. Eureka Ergonomic reserves the full right to determine the final decision on all potentially fraudulent cases.\n\nPlease send your supporting documents to our customerservice@eurekaergonomic.com email. If we do not receive any responses for 2 business days after the day this email has been sent, the order will be automatically voided.\n\nPlease note that Eureka Ergonomic takes our customer’s privacy extremely seriously and would under no circumstances share our customer’s information with any third party.\n\nIf you have any questions, please email us.\n\nWe thank you for your cooperation,\n\nEureka Ergonomic Customer Service\n\n-------------------------------------------------------------------------------------------------------------------------------\n\nEureka Ergonomic\n\ncustomerservice@eurekaergonomic.com\n\n14821 Northam St, La Mirada, CA 90638",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 11617929820941,
+  "submitter_id": 11617929820941,
+  "assignee_id": 404717562412,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "asked_customer_satisfaction",
+    "bigcommerce",
+    "general_inquiry-manual_verification",
+    "n/a",
+    "no"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "n/a"
+    },
+    {
+      "id": 360036048231,
+      "value": "bigcommerce"
+    },
+    {
+      "id": 360035265932,
+      "value": "n/a"
+    },
+    {
+      "id": 14609897500813,
+      "value": null
+    },
+    {
+      "id": 14751510608525,
+      "value": null
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": null
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "offered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "GE3L7X-N5L49",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "n/a"
+    },
+    {
+      "id": 360036048231,
+      "value": "bigcommerce"
+    },
+    {
+      "id": 360035265932,
+      "value": "n/a"
+    },
+    {
+      "id": 14609897500813,
+      "value": null
+    },
+    {
+      "id": 14751510608525,
+      "value": null
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": null
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

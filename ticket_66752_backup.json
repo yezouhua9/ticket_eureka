@@ -1,0 +1,281 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/66752.json",
+  "id": 66752,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "ssawyer@tsigre.com",
+        "name": "Scott Sawyer"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2022-12-20T01:04:30Z",
+  "updated_at": "2023-01-17T08:29:23Z",
+  "generated_timestamp": 1673944163,
+  "type": "incident",
+  "subject": "17311 Nichols Ln. HB- FOR LEASE/SALE",
+  "raw_subject": "17311 Nichols Ln. HB- FOR LEASE/SALE",
+  "description": "Hi this message is for Frank Li\n\nHi Frank, \n\nScott Sawyer and Ted Sawyer here. Attached you will find our class A 114,000 industrial building we have for lease and sale in Huntington Beach. We are reaching out to the larger companies in the area to see if anyone needs more space. \n\nWe also have smaller off market buildings for lease if the attached is too large. \n\nPlease let us know if you have any interest.\n\nThank you Frank!\n\n--\nScott Sawyer\n#1 Street Broker\nExecutive Vice President\nThe Sawyer Industrial Group \n\no: 714.375.6667\nc: 714.599.2225\nLIC# 01972979\nssawyer@tsigre.com\n\nTSIG\n\n\nThis email may contain information that is confidential or privileged and may constitute inside information. The contents of this email are intended only for the recipient(s) listed above.\nIf you are not the intended recipient, you are directed not to read, disclose, distribute, or otherwise use this transmission. If you have received this email in error, please notify the sender immediately and delete the transmission.",
+  "priority": null,
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 11595143008269,
+  "submitter_id": 11595143008269,
+  "assignee_id": 421568501372,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "amz_eurekallc",
+    "asked_customer_satisfaction",
+    "general_inquiry-business_inquiry/purchase_order_request",
+    "n/a",
+    "no"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "n/a"
+    },
+    {
+      "id": 360036048231,
+      "value": "amz_eurekallc"
+    },
+    {
+      "id": 360035265932,
+      "value": "n/a"
+    },
+    {
+      "id": 14609897500813,
+      "value": null
+    },
+    {
+      "id": 14751510608525,
+      "value": null
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": null
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "V95D32-7J5DZ",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "n/a"
+    },
+    {
+      "id": 360036048231,
+      "value": "amz_eurekallc"
+    },
+    {
+      "id": 360035265932,
+      "value": "n/a"
+    },
+    {
+      "id": 14609897500813,
+      "value": null
+    },
+    {
+      "id": 14751510608525,
+      "value": null
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": null
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

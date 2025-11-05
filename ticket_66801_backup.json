@@ -1,0 +1,280 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/66801.json",
+  "id": 66801,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "jblanchard@helena.com",
+        "name": "Jamie Blanchard"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2022-12-20T17:10:36Z",
+  "updated_at": "2023-01-19T08:29:16Z",
+  "generated_timestamp": 1674116956,
+  "type": "incident",
+  "subject": "RE: Your order (#40742) is about to ship",
+  "raw_subject": "RE: Your order (#40742) is about to ship",
+  "description": "Can I get a paid invoice, I haven’t received one yet.\n\n \n\nThank you,\n\nJamie Blanchard\n\n409.842.3714 x 1071\n\nHelena Laboratories\n\n \n\nFrom: customerservice@eurekaergonomic.com <customerservice@eurekaergonomic.com>\nSent: Tuesday, December 20, 2022 10:32 AM\nTo: Jamie Blanchard <jblanchard@helena.com>\nSubject: Your order (#40742) is about to ship\n\n \n\nEmail originated from outside of Helena. Be careful when opening any attachments or clicking any links in this email.\n\n \n\n \n\n \n\n \n\n🤘 Your order is about to ship\n\n \n\nHi jamie,\n\nwe have prepared the shipment, and the carrier will pick it up soon.\n\n \n\n \n\n \n\nTrack order status (https://click.aftershipmail.com/ls/click?upn=IFG1N7ptpQpm-2FFrM0vQd7c2LpMjAcEcCAOgV4Whl0kWph7Xu5bSdVZ-2Fv38n6KqZxPKMPIXFL2lHoD25xAVClLasqsvBeehnoWgzOP3N6n2XSDIzL8AUV69tNOIQnmL0QVM3zGio5mTwpXrvcWqqyXS5LqxlcWRTaOD12CLepeaXgc2Lo95U7EU-2BNH0IgXa0ytvVQmLXwxF7L9iJ3lU-2FxHQ-3D-3DFLXK_NFkpOij8F-2FR3FTEkVRl-2FEhhVTOaP9SxpbyCM-2FkVoQlXa0geQBnnJ-2BSFv7QV0HdLMugm4T5KyqCXWDBuiXN-2BFCUR7fAW4Kn5OgqbRqBWcrIeVPEWtupn-2Ba35dJD1EcG0YUb5L-2BKDFLZwRfz6XoGvuICGnMr34RshgDVJvsv8M0fVJ6dh3vxKjBr-2FCiDF0AsiCrfTbPFZjRASILfuxFt4K4mgqIRdIkg4k22AOAAqpJ4JoXT2NfPsZQ8j3O6ziPRTOgF1lpk7Bfag2T1C9Z9l1AQsfh-2BmcG52Nc1DA3FT57zzUmJVZdSziedVtwEFRHLOo8TfxCoyyWZQw3KZ2n5Wl9of-2FD38B3gXmJiUcCokaOGAufvGNFRgvOWC4dq1fryMKNdyaXbSHj3elGOk2mPPfzAdtiCww6jWvzd3BLEF1obTDgxlGirKhVnIJasabXTOP)\n\n \n\n \n\n \n\n \n\n \n\nTracking number: 392389139840\n\nCarrier: FedEx®\n\n \n\n \n\n \n\nWhat's inside\n\nItems(1)\n\n \n\nGTG-L60, L Desk, Black, 60''\n\nx1\n\n$529.99\n\n \n\nNo longer want to receive these shipping notifications?\n\nUnsubscribe (https://click.aftershipmail.com/ls/click?upn=IFG1N7ptpQpm-2FFrM0vQd7XEcrX7yaiC4DOui-2BQMBnKk-2FO9KMl21iVFzvppMdYlk3XTszt0-2F9xbjOn39ZIE2Ecyv4ZEDyX7rn7DAeu3nI5sXk-2FKzsXtB9VmQ-2BYn205QOajFEEUxAsvXRyyILVP2S1oF-2FQy2ctTHiffbbWsVlJWbZjRLd0WYKyRyitT7poMscnp6RDiw-2FYe9Ymw6DfEmI9eHrNDV5fWAwn59LGjazZoceZOXSt76l-2FpM2PUZ9NNLe-2Bdf3f7M2Cbl7-2BOMwB6jwciGutU-2BaCTNtFWTGTR-2FYqlTkb6zfXDxaOqn1nfQ6r564DtR2jIz2GyKgmhlBMysG0BEKG1J5kuIxfBuAJJhVZjFSpktfJIe-2FLNw0-2Fb0oNokwr46i6VQJ3T6eM87ZCdldabg-3D-3DzIwB_NFkpOij8F-2FR3FTEkVRl-2FEhhVTOaP9SxpbyCM-2FkVoQlXa0geQBnnJ-2BSFv7QV0HdLMugm4T5KyqCXWDBuiXN-2BFCUR7fAW4Kn5OgqbRqBWcrIeVPEWtupn-2Ba35dJD1EcG0YUb5L-2BKDFLZwRfz6XoGvuICGnMr34RshgDVJvsv8M0fVJ6dh3vxKjBr-2FCiDF0AsiCrfTbPFZjRASILfuxFt4K4mgqIRdIkg4k22AOAAqpJ4JoXT2NfPsZQ8j3O6ziPRTOgF1lpk7Bfag2T1C9Z9l1AQsfh-2BmcG52Nc1DA3FT57zzz1VWzNTsHkO2M-2FvSa2e-2FPSg57ChrRdivt5ZDCrP9cPVS6KWndseJe9Q4hzYtTkiIi0okmP1DXB2lIE1NSi9-2BD2FtBiVF9cd2s2513WsMB03-2BKLdocPOdXCD6wiabsQ2KwUr7NgFoS5h6HQX1i0U1f)",
+  "priority": null,
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 11612464599565,
+  "submitter_id": 11612464599565,
+  "assignee_id": 421568501372,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "general_inquiry-invoice_request",
+    "n/a",
+    "no",
+    "no_store"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "40742"
+    },
+    {
+      "id": 360036048231,
+      "value": "no_store"
+    },
+    {
+      "id": 360035265932,
+      "value": "n/a"
+    },
+    {
+      "id": 14609897500813,
+      "value": null
+    },
+    {
+      "id": 14751510608525,
+      "value": null
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": null
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "L7JVYL-Y1M1R",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "40742"
+    },
+    {
+      "id": 360036048231,
+      "value": "no_store"
+    },
+    {
+      "id": 360035265932,
+      "value": "n/a"
+    },
+    {
+      "id": 14609897500813,
+      "value": null
+    },
+    {
+      "id": 14751510608525,
+      "value": null
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": null
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}
