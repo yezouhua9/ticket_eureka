@@ -1,0 +1,301 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/136076.json",
+  "id": 136076,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "amastersimms@gmail.com",
+        "name": "Amy Simmons"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2025-02-01T15:53:16Z",
+  "updated_at": "2025-02-23T23:01:46Z",
+  "generated_timestamp": 1740351706,
+  "type": "incident",
+  "subject": "Order EE-50745",
+  "raw_subject": "Order EE-50745",
+  "description": "Hello,\n\nJustin shooting a message regarding a listing I found using the pictures for the same desk I purchased but from a different brand and of course several hundred dollars cheaper   \n\nI’m not sure if it’s a knockoff or not, however I thought I’d send it to you as the pictures have the Eureka logo on the metal.  \n\nI’m not canceling my order but do want to confirm if this is the same desk and if so is there a way to potentially price match and if not thought you’d like to be aware of this listing\n\nWarm Regards,\n\nAmy\n\n\nThe Twillery Co.® Rachele 63'' L-shaped Standing Desk with Riser & Reviews (https://www.wayfair.com/furniture/pdp/the-twillery-co-rachele-63-l-shaped-standing-desk-with-riser-euer1167.html?piid=89949996)\nwayfair.com (https://www.wayfair.com/furniture/pdp/the-twillery-co-rachele-63-l-shaped-standing-desk-with-riser-euer1167.html?piid=89949996)",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 33972525540109,
+  "submitter_id": 33972525540109,
+  "assignee_id": 418155362151,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-ed-tx60r-wn-us",
+    "no",
+    "no_t",
+    "pricing_and_discounts__other_prices",
+    "shopify",
+    "solution_answered_question",
+    "solution_refund_partial"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-50745"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx60r-wn-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "pricing_and_discounts__other_prices"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question",
+        "solution_refund_partial"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "92M69W-Z02G0",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-50745"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx60r-wn-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "pricing_and_discounts__other_prices"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question",
+        "solution_refund_partial"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

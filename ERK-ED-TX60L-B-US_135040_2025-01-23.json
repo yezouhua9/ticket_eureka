@@ -1,0 +1,305 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/135040.json",
+  "id": 135040,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "gardnerm2@neuropeds.ucsf.edu",
+        "name": "Gardnerm2"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2025-01-21T00:16:22Z",
+  "updated_at": "2025-02-12T17:02:24Z",
+  "generated_timestamp": 1739379744,
+  "type": "incident",
+  "subject": "Re: Message from Eureka Ergonomic",
+  "raw_subject": "Re: Message from Eureka Ergonomic",
+  "description": "Hi there is no image that comes through when you send us the email. Can you please describe what the differences are between the product we ordered and the new product, so that we can authorize shipping.\n\nThanks,\nMarisa\n\nOn Mon, Jan 20, 2025 at 4:07 PM Eureka Ergonomic <customerservice@eurekaergonomic.com> wrote:\n\n\nDear customer,\n\nWe are reaching out today to advise the ERK-ED-TX60L-WN-US you will receive is the new version. The image below shows the specific differences, below/ Please let us know if you approve so our team can ship it out for you. Looking forward your response.\n\nThank You,\nCustomer Service Team\n\nIf you have any questions, reply to this email or contact us at customerservice@eurekaergonomic.com\n\n\n\n--\nMarisa Gardner, MD\nNeurology Resident\nUniversity of California, San Francisco\n(925) 785-8564\ngardnerm2@neuropeds.ucsf.edu",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 33612381881741,
+  "submitter_id": 33612381881741,
+  "assignee_id": 13658273839245,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [
+    33639539792397,
+    33665594306061
+  ],
+  "follower_ids": [],
+  "email_cc_ids": [
+    33639539792397,
+    33665594306061
+  ],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-ed-tx60l-b-us",
+    "no",
+    "no_q",
+    "no_t",
+    "order_status_inquiries__order_status",
+    "shopify",
+    "solution_answered_question"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-49605"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx60l-b-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "order_status_inquiries__order_status"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "GJW1J3-9G69Z",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-49605"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx60l-b-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "order_status_inquiries__order_status"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

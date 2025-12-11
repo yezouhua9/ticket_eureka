@@ -1,0 +1,302 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/132525.json",
+  "id": 132525,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "lauraallenhome@gmail.com",
+        "name": "Laura Allen"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2024-12-29T14:20:32Z",
+  "updated_at": "2025-01-27T00:01:39Z",
+  "generated_timestamp": 1737936099,
+  "type": "incident",
+  "subject": "Re: order: EE-48747 / ATTENTION ASAP",
+  "raw_subject": "Re: order: EE-48747 / ATTENTION ASAP",
+  "description": "Hi,\n\nPrior to placing this order I spoke with customer service twice to get details about using a white glove delivery and assembly service NOT FedEx. I was told to request Metropolitan and that the cost for the desk would be $289.00 and the chair $89.00. These options do not show when ordering online so I was told since customer service could not collect payments that I would be emailed an invoice to complete. The representative said to look for this in 5 minutes. These conversations were on Friday afternoon and I have since phoned back and left a message with no return call, and still no email. In addition, during the second conversation I was told that if I placed the order online that it would be recognized and my shipping request would be handled as requested. \n\nSo, without the follow-up promised, I decided to place the order online and on the note area I left a detailed message about the shipping, YET this order has not been acknowledged other than an automated response telling me that I'll be contacted when shipped. \n\nTo be clear, I DO NOT WANT FREE SHIPPING WITH FEDEX AND WILL CANCEL MY ORDER IF THIS IS NOT RESOLVED PRIOR AND ASAP. IF THIS PROCESSES WITHOUT YOUR HELP I WILL NOT ACCEPT THE DELIVERY AND WILL DO A CHARGE BACK FOR THIS ORDER WITH MY CREDIT CARD COMPANY. \n\nPlease help me resolve this issue!\n\n- Laura Allen \n925-389-0774",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 33078383575565,
+  "submitter_id": 33078383575565,
+  "assignee_id": 418155362151,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [
+    33047347385997
+  ],
+  "follower_ids": [],
+  "email_cc_ids": [
+    33047347385997
+  ],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-ed-tx60r-b-us",
+    "no",
+    "no_t",
+    "shopify",
+    "solution_answered_question",
+    "white-glove_service__quotes_and_service_time"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-48747"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx60r-b-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "white-glove_service__quotes_and_service_time"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "4DDDK5-LZX1Y",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-48747"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx60r-b-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "white-glove_service__quotes_and_service_time"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

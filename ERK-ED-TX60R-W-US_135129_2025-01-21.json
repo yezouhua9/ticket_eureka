@@ -1,0 +1,300 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/135129.json",
+  "id": 135129,
+  "external_id": null,
+  "via": {
+    "channel": "voice",
+    "source": {
+      "rel": "inbound",
+      "from": {
+        "formatted_phone": "+1 (267) 303-7778",
+        "phone": "+12673037778",
+        "name": "Caller +1 (267) 303-7778"
+      },
+      "to": {
+        "formatted_phone": "+1 (844) 416-2090",
+        "phone": "+18444162090",
+        "name": "EUREKA ERGONOMIC"
+      }
+    }
+  },
+  "created_at": "2025-01-21T20:35:17Z",
+  "updated_at": "2025-02-11T00:01:55Z",
+  "generated_timestamp": 1739232115,
+  "type": "incident",
+  "subject": "Call with Caller +1 (267) 303-7778",
+  "raw_subject": "Call with Caller +1 (267) 303-7778",
+  "description": "Call from: +1 (267) 303-7778\nCall to: +1 (844) 416-2090\nTime of call: January 21, 2025 at 8:34:33 PM UTC\nAnswered by: Erika",
+  "priority": null,
+  "status": "closed",
+  "recipient": null,
+  "requester_id": 33278033539469,
+  "submitter_id": 404717562412,
+  "assignee_id": 404717562412,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": false,
+  "due_at": null,
+  "tags": [
+    "erk-ed-tx60r-w-us",
+    "no",
+    "no_t",
+    "shopify",
+    "solution_answered_question",
+    "white-glove_service__white-glove_rescheduling"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-49366"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx60r-w-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "white-glove_service__white-glove_rescheduling"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "4DL5WJ-V0WPN",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-49366"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx60r-w-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "white-glove_service__white-glove_rescheduling"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

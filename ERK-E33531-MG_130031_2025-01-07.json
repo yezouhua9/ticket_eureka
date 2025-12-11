@@ -1,0 +1,298 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/130031.json",
+  "id": 130031,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "nyoun5@everstorypartners.com",
+        "name": "Lee Young"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2024-12-10T19:29:48Z",
+  "updated_at": "2025-01-28T01:01:47Z",
+  "generated_timestamp": 1738026107,
+  "type": "incident",
+  "subject": "RE: Order EE-46589 confirmed",
+  "raw_subject": "RE: Order EE-46589 confirmed",
+  "description": "I am still not showing any ship date or expected arrival on this item.  Can you update please?\n\n \n\nLee Young\n\n \n\nFrom: Eureka Ergonomic <customerservice@eurekaergonomic.com>\nSent: Monday, December 2, 2024 6:22 PM\nTo: Lee Young <nyoun5@everstorypartners.com>\nSubject: Order EE-46589 confirmed\n\n \n\nYou don't often get email from customerservice@eurekaergonomic.com. Learn why this is important (https://aka.ms/LearnAboutSenderIdentification)\n\n[EXTERNAL EMAIL] This email originated from an external source. Please take care when clicking links or opening attachments.\n\nSale (https://us01.l.antigena.com/l/ZJLTXfDp64E0aExBzptpl0ZJ6KT3ZG6wW32jdPznXk6-xRlVaCguvsTkIpjoUU14zFUfVAQroYTK6OTQ1aILxzKhU_Pyu4QtN3uW8w33GL_74B3A8MLDz99vkjETU8vDmjY4uGx86Bc0Ub2Lu7H9KGWeINzhX7yo9uTmo~6H~81Uq0PtA2Bokq~NmU~JCNyBm0LEthWt~pftJK6jwt~~Su_fzTt_jat2vuF~XjdUSx~RZCGMnbKi003OMoIZUYId0NxA0mTW7tT-fojVzsOvX3~sPr3YqCiX~HvohPaci~Rf3~wcWovWIuQsqoQk-yniXwHZN1t0XvCwArXrtiQJCdp2GaIy6sNVfiiKeJ8zObh7JbmGYG0pvwh1SC_hU2v3TXxMiwwC7Uwvlw-Ka_Gzm7tpLU_dJuKPIioXLBkrJWsp-tBqwGxl1yTeQhykxVM24b4lynlo0_as~k3hFg13IQ4gRMy47PMwjkZHtHC0g~Mcbs_tqGtdmHRpVKRQDtPiCTKfx1LX84qJPBCBmB0~7OqaHYjuFIKfDzq0crC_ktqXsrW82AktzyoH~ysxWldpFd7fSSIBR9JyVvj1KDXYGsBS_AzNy2XsEGSiZlTlXAt10pkqyblFYfSE9iO162hdNPrbbYrzx-JWEOpOSM~qkmvdRphJkkda4KFdQmvM70j1T7G08G_Tb~LyzacHvKboJhHnWHgYLMQWnhpuKASRELskWtyl3S2eifAq1__aJ4DEGtJ0_Rhiz_3mhdbser1j3pTNsgx6zHN8QofVfUAXZBVDmMHst8SSogGBZ3LljVKPG8udYqW_KhlsjY1yolOFoBHPghpHie8WeU3PS_RgsRMtwCZ7BqBQIDKfWEA_JfQ-kNu4RMAi0AJOaIsZgRAXIVklNoj7Y4t86Phtr6d31U2De66Oi-iM9fWYyT7Qn~pmxH8IDm1WdoBAPDo3_Ybc81Y3i7w23SDrhHuvZ4aEIt-t1tM6tPDizN2BQtZN3I3gbTdImPtECXMTO~OPQ6yflsNCa9pfgwS_qHfhWt) | Best Sellers (https://us01.l.antigena.com/l/um-Xl0875W9vKs~_CtrAakIkTH5xdbE_fhws_c5irSAFeqN1nZ7VkijoC0IWCKIVQ1nyyTBI0yFgHJTiowTg2vHQBJ9Bec~B~~B93JH6h6h8Ot5EdT555gD8Hp~uO_r88gfgBvL~gTKjQJIgQANdPXY-f_xshr9qcnc7nETAI57TeStj8oRjstqVVc0wNjNuSorcjBh7y675yDbCDSlY~jCsQRJ9wY2-V7I1MTLm7NrHjRAF~PmGk9ozr5Ofz0tewmudrtxIOPqp1sv2j0cSG7ByA1f8R6ZjG~_saAmcQVYymmUFNSY3yvedSgIVpxOJp1Ikrr7qblxcllH70ByRR9dQM-EYbBz3xqwzHk3KrZ7ODtyLnx-tM_VGgdpSC_snwSKfUNXg-2rl6G~AcTYr9RhUVm~MBzIx60FM3e5G_HzqvpNCgzcW0vNFMk~3bgrD7ObeQSKOwtMVkTxwqjQ1QL02LuN2ZGOGXc-GEhB11lyRNG6JEMKdL-LUZRvX7JlgN-w7IbPzuVLek7vACbfGfT0LeozXFuauRWarvxLq_Ai0IHfNPT6XB8epRYdsHQp~Ifeomfsq52fyDS~x1mcwW_aowQ72u_vZyub3JZ-C0HIzgKHW-fl~BlS1Q71MZDsMxbZp1TGXpH6Bfj8DxK_t-sYBSOy19rmYv99WrqG7VJtePLeH7LVm9yzc2hH2nhHR1rF1~pii37e~OvJgbTTR_SOWSDy7k0PvPqGFgdfr0kxkGAB0wGNDWDq_STNlLedFc1~Vjy8auAzTrQWmNGNfEz_TyQ9kkMwnHvJDjTemdcPfLOQbyK~XY~2Rw6QYQHul7QKwLuwo~WouCmuiKffaivN3GnCJV2bPkuQ0nHaxO7NNeILY6yLl125EANhkydtD2dT-tnxYgwFlQzB_yudY_RI5l9Eywq6OFO6P56gmf6psfRZruAHbzURZSySCFrDiHFbpAMZu6Mrpgtd5rC5zSrA_6WnyDKUVcb66~Dn6XgfJuxerMtPvhRrmgzEDh2yGpIdnDDX_mqeioVRB7XYC700inewABtH) | Shop by Room (https://us01.l.antigena.com/l/Af5USDhXCKz0g6BnStsSK2ewqp8nua9bAJseVNs7lGZnExBZLTwaAV0oWw5tNcWYLIIM04FdxQUFWxYZRXdxeJLITRRZ4t04MBZY7O99m5eH9M73CECy8-SGvS0Lyu8--Fg40L~8ilmylXxu-ewjDdnHrLKQ~O0P5UkFOO3jo~ftAuTIRPQO8TdkqcAm36sUJp3NdxIXSx37fHMCFSZoMa5N1DF749ayF6WqfYttd-CZUqldUHgCeFzBdPd8ULHn2~wMx4Il4USyzZLrZmgmdEfSp49EfnVHoBv562OZofHkvfBpEgT2Z8~XwX-CJawsSsF7hXSC5fwe2V7TEOTkGjwkfrPm-4ZbvUH6SjY8rZfu6PDM3w7drNPxcNQB7DIGN1Am2e2Uu40HGbq3g7ymihUpS2ewRm4pWofuPRjar~eL-8VKAkEJX0ulLGHCO~kG9t7~EIfi3mixHqqrgAKXscDWQWHOsKLH6HCA3Y1WyuP1p8ULLPTu2vGtKQk0o2RUy~h-JfBKIiW50HfBataHsLbASbApEo1HgdgZCE50z8T6k8xOkkDu100Mim7cPrdhWaE6c2XhA5hIpYeBJ8xSTl9kTM8NMPiOqfck2zSzAADLsJOn7H6enkDqfT1k5h4hIoTiNg8Po9URrAqjAIuJ3hkgWVkXR7hOqQ07PwQa~XRodxMAifbeOg0qm3JZwLCUhl33LbtTiv-wioJ6CgxprRrgAeaEHX~MM1ZOUUYjl1f8U0Ih6479~ykk6R7qIjJ5lhCXo5J2Ao47EzNBcVX0gFFI8laj3ozR9ZTgCECrLgkdzTVI3CukQd7yAlK3SNPJnPlQXQTYua4jM8tzuMXd4ciOb3GD~gQpn~JfHBGSWz4Ktmyk33EsHJFmJI9yPnmjvfXG6nn4zSIrYUo8HXPNwvEIgfAuXAZ~tcp5QKXKz5AQdi3eVWqam5IHGp-DblAFxb79ciF67xyOnzQIi76v1vZzJam9Lohi75mR~j~MFHdbjpx9PzFpYa7z59Fnd8oZzL9vAaQZAT8K6uDR6Sn4q-uK6Ba5uW~KF6Iz3qP4vz) | New (https://us01.l.antigena.com/l/kJmTspF_1dt2anABspWTjxYJ-_Cr8xCff4LlK6rLf2yUgjp5~YVJSPL5QGSgqF8c~spKPL2jK7FpPUSKG-~scsqWy7z2~P2hjH2jxtE444fjEiI4BZ2uqDxxvUs64XUfEbuA7jMWrOZanoUFcIcRdcO2pn~oJj9SyMc~gfSPofp7Rd2_KqnpzhH~g9DZRadqwhfoN1TH2f5KmVJTNHzu-yi5BR~wq6zmFqh-CT3yqFVNmAHBQai8BM_71A1a2ZB~mC7nh-X8bkek7cafQQsXZXn96mhKZhm-aG6LB6ZLwC_zRx5qXOgE~TrM_OeQvoUBujGMkA-4QAyxViPIYeCHWzpGbR~onEu4BJDtHZIZ5AbxP8Gcljpb_gGsoXdQJ5BeYNU6Sm_HVNPtmra~~JyFs9CJ8iUb5XniqRbtA6Xk3l5TDTCRoS2XhYYvpbk3L7HRJ7S8PojDqzNQsK_yJEBaAnUKiFtToRHz6Iw1mamDPxNCLTQ_n7ueGVMW5TuPNLQu-JIuOAjXddRzHAbHDrokbRx714NNZ6nm-w_N1tuYpl5QA-srKq_FHlcErIhNaN6gr2XKBhvPor5YEdNX-TSs~Rem4Luzg4S59OFgh4NjQMOl9Y9O6kFZJWwZA~w2tyaq7QNu~aL2fzE_f-yIXMrVyl2S-5UjAU~GCza4BEin5-Lzcli8IDOqzJmkvEeWFT~mNtRdOpPmLrRVCaaORTKFNqqDYFSMJplaV2wqAcnFg2nXNMbe_klFYzaA-J~LCMMIQ3tGSPqd1I85J3HCFQPADQ5wn6wAAGt2VWX1BdFdRVFaMFZ8DFSvDw37qIXrALCnZXbZwDUksAeim5E9btR-h7_qrQXZIexNyYHjzgKrgAxR2EKtycUPzStDMNcHeAbWBzXQb_k6YnEo7eAx_PHW1b4fjxgZZ8LeZ1eNDrr2q-w36KTCyrVr8_lMIKxl5HMDyfOk9e8uOQZEurZJ~WAg5VakJHt4jeh4rkrXrbDeRx6Z941444zY-UQHvKT-vrOjnN1AzhhAwKsthJRXjyLIjtr)\n\n \n\nThank you for your purchase!\n\nOrder EE-46589\n\nWe're getting your order ready to be shipped. We will notify you when it has been sent.\n\n \n\nView your order (https://us01.l.antigena.com/l/rBDWwC8ApjAmC3f2XwnL~mtQWIsX3JnUIhIlXf7Hu9SeZcC4aNz-oGWNdiOWFjSPC78MYz72~Iq5B7g-fK1sjCT3cYsMd27XH6uuu64E-IlR2uWN8uVqRRq9q5pzR-jew~k9veIgOY0kt4ZvCCBgWIW~9aPGR-aQcQUlwPJddrszVKy2WRUzfyA5NEAlSpH_Q3r5YQLalxcdMeyXWjWTnw2DKg33KDG0KwLBCQeiKrAXx3AiCHlK1KngwBu0VdoAk_Q73Wq1475ndtqKqFT_lRUwpK48CXqB4oDq~oxrxwaK3ukJfcrq1tDzf4V7oESg0LsH0668E0g9G~mN297nRnXtFV3Zsl8_ZY2i~LqlQFxwmf6Yj9BvXBHE2AttS-2o4MI3YzOG3r8-wG1LwCkv2N3eaGa33-vMSrDHvBMNBek4fwrXNan_gxYmleoLE1oWQvdxhjgO5fM8QBfi3F_PDCmotFKv~KJ-WP_uceLlBQ-XR6~Jg-DEgYaxxNeBrtcIi7gQ_~rOpFHWjmi1drlpQkB_mmB_4cGm_m5-7VcwwesHTxo93h~8rOnO24hL3Xd5e_DdU0Zk00ginkZtYMQMilwyeeYYoD8Wm1iyVa7Ujw5UgylxYxpdj-62MMOwef~foZqPSu3mTF4UODwgkPYxnA~VIWVygs~i9S22XQLXDzp7RapDfsJuUiBQN8q_OGUSoP9vV_cm0fM9s_NYAUeJCwKaUs-UVeRa2Xv_v5Tz-6BhzgJBd4eQrxhVSpYoiAQ2YFg77WASwrqHVmXg6PVo_ZGNYU32HF~errfocfzY~xr3JhhUz-HuQF-jnsw8r4rZ~iPwW4yMMTS9Z6ycsc3fh3ol_PUXN5S89kMaAorG38OOu9QmyC0frfhqM6ei-SAcwdLLGmrqusIG_B-FxYPCVti_9Rq4YGvWnCvftCKLq~Bc_AoZxvFQ~3oNEvfWf1N4c4RMdQGZpeBaIc3qXQFqayVq-a9mzj6mSL-hBc6NIeZPd3I5xVgdmOWo6lLGG9LnhC1skK5pRHRR74nhuMnj569RZ5u2YmKMpn7Jq6d27ERqqLX6Hluk5exh5vuyRDpujoHsZ_MIX_ruu9POR23l-UzyGK-Ytnc2MElJnuXX7Lak3OVfkr~Z6KN5QK_t1Pd8wXcsTGqs)\n\n \n\nor Visit our store (https://us01.l.antigena.com/l/DpJTbec-1J-S-2kxndOCpDpPrinuuf9NkSWz1zNN8w_XrJmiRSgmqoMlioRWTrY0PedN6XROpEiMEQrDckY0Gm-I5oWK0G2TRPyljnz8zJuazw1PjIHmnqDlSMe5_VATx9Ls~2GF1YjLVsFP1npM_eGbPtu4Vss1-UqtBTbUZUDOTo5OiJK15VTBJpMCRNCq5Xl_yxSOWHQgJCgUQ7kmff_GC-fIEXnx~9iY_fWGpajKUDq5ll-T5CsNPdYC7~cWQTvllaJVZQo6SSM2PNe7-8iRa94I2TfmRSQqq5xfTgZnaDzr7nUivLrUQiRdnJOQYtjL6K9cc_LstCOE9r-oVB8B_EZruXG9ZJCsZjJEE5SwAEw0fIEwMXTGNz2a0P5WjDUiwU8ENQtqhkNeVM9U4hfWQGOkspfWqc_Wj9NA1-7sYJFF6TSm-8OqA4apmcetvY~GXzAmhsTTk0_Y2iLJMkPqmKxguOMCHbPkG1NmZrCKS_CGAD78EZNUiKN8G7ECMS5p_Nv5OAj_wFk0M4qAPGU268iNmPSP2UQAeHABay6QWlmVOdkMYLPk0ccG_X0awh7SKyAdFM2eFCWVOMeGGLBgVsHbrTIoa91ncQDgKBnx8JlW48rP_CSFKXJwDhPaOIYYx17D6~eZIsctjabSg-kdkk9BZi8ziVgeVFbYLWZrKg2gm06jA~mEn4f69O_c_SU8gSyBaj0nGPEHJvNcJXCTHQ98aE40XCCfivy~g2xBh~HTKpYGK6WfiXRDLF-NXGhHEWhJEFHOLoW5VWJtMptaXVBgdCR1a2cdJwf8oYgKfXdNZcpGKAHjDAFP1OtJva0KITubmajO5o2OC-8oMyuD2zfypeo8TFo06QfSRZE6TJf-bKDmyKtD9Zwb41ZfQgWLudML8zO-J_sHVtu9-dHXtiTTPPQyLbXYw8QHvYt1xcuqnNz-wvXYoOTpd9uz4x6zhA8BWnNyO1jnm1BxH9FhuGwLOmVKs~lGwL-nm2xK7Y1RCw0r0446bt)\n\n \n\nOrder summary\n\n \n\nArk ES, 71'' Display Bookshelf with Storage Cabinet, White × 1\nWhite\n\n$439.99\n\nArk ES, 60x26 Executive Standing Desk × 1\nCherry\n\n$1,599.99\n\n \n\nSubtotal\n\n$2,039.98\n\nShipping\n\n$0.00\n\nTaxes\n\n$0.00\n\n \n\nTotal\n\n$2,039.98\n\n* For pre-order, we will ship it as soon as it becomes available. Once the order ships, we will send you an email with tracking information.\n\n \n\nCustomer information\n\n \n\nShipping address\n\nYoung\n955 Prairie Hill Ct\nCary IL 60013\nUnited States\n\nBilling address\n\nYoung\n955 Prairie Hill Ct\nCary IL 60013\nUnited States\n\n \n\nPayment\n\nending with 7588\n\nShipping method\n\nFree Ground Shipping\n\n \n\nIf you have any questions, reply to this email or contact us at customerservice@eurekaergonomic.com",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 32596188952077,
+  "submitter_id": 32596188952077,
+  "assignee_id": 29227740004877,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-e33531-mg",
+    "no",
+    "no_t",
+    "order_status_inquiries__order_status",
+    "shopify",
+    "solution_answered_question"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-46589"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-e33531-mg"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "order_status_inquiries__order_status"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "92X9W6-3R0EJ",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-46589"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-e33531-mg"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "order_status_inquiries__order_status"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

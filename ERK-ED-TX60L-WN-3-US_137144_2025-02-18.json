@@ -1,0 +1,301 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/137144.json",
+  "id": 137144,
+  "external_id": null,
+  "via": {
+    "channel": "web",
+    "source": {
+      "from": {},
+      "to": {},
+      "rel": null
+    }
+  },
+  "created_at": "2025-02-14T20:53:17Z",
+  "updated_at": "2025-03-10T17:02:00Z",
+  "generated_timestamp": 1741626120,
+  "type": "incident",
+  "subject": "112-3174128-2861848 -  White glove assembly",
+  "raw_subject": "112-3174128-2861848 -  White glove assembly",
+  "description": "Hi, here is the link to pay the white glove assembly fee. Please let me know once the payment is made so I can schedule someone to install the desk for you. Thank you!\n\nhttps://eurekaergonomic.com/70598492464/invoices/5198a7f3a5a77cc1ba4a2abd860fe8cc\n\n\n\nBest regards,\nSu - Customer Service Team",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": null,
+  "requester_id": 34296385184653,
+  "submitter_id": 13658273839245,
+  "assignee_id": 13658273839245,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [
+    34296090424077
+  ],
+  "follower_ids": [],
+  "email_cc_ids": [
+    34296090424077
+  ],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-ed-tx60l-wn-3-us",
+    "no",
+    "no_part",
+    "no_q",
+    "no_reshipment",
+    "no_return_product",
+    "no_t",
+    "no_white_gloves",
+    "shopify",
+    "solution_answered_question",
+    "white-glove_service__quotes_and_service_time"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "112-3174128-2861848"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx60l-wn-3-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "white-glove_service__quotes_and_service_time"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": "no_part"
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": "no_return_product"
+    },
+    {
+      "id": 33423132470925,
+      "value": "no_white_gloves"
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": "no_reshipment"
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": "#D838"
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "92DEN0-9175E",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "112-3174128-2861848"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx60l-wn-3-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "white-glove_service__quotes_and_service_time"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": "no_part"
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": "no_return_product"
+    },
+    {
+      "id": 33423132470925,
+      "value": "no_white_gloves"
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": "no_reshipment"
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": "#D838"
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

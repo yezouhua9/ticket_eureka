@@ -1,0 +1,310 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/136884.json",
+  "id": 136884,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "jmcginn_2000@yahoo.com",
+        "name": "James Steven McGinn"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2025-02-11T20:56:56Z",
+  "updated_at": "2025-02-11T23:34:55Z",
+  "generated_timestamp": 1739316895,
+  "type": "incident",
+  "subject": "RE: Desk Issue - Order # EE-50698",
+  "raw_subject": "RE: Desk Issue - Order # EE-50698",
+  "description": "Hello:\n\nI am writing to send another picture.\n\n \n\nThe color of the two pieces of the desk do not seem to match and I would like to understand what our potential options are with this.\n\n \n\nAt present, we are not happy with this purchase, the color of the desk doesn’t match, and it will not assemble correctly.\n\n \n\nThanks and I look forward to speaking to someone about this soonest.\n\n \n\n--jim mcginn\n\n \n\nFrom: jmcginn_2000@yahoo.com <jmcginn_2000@yahoo.com>\nSent: Monday, February 10, 2025 1:21 PM\nTo: 'customerservice@eurekaergonomic.com' <customerservice@eurekaergonomic.com>\nSubject: Desk Issue - Order # EE-50698\n\n \n\nHello:\n\n \n\nI called an hour ago, I just received my desk and got it mostly put together yesterday but I have some issues:\n\n \n\n* When I look at both pieces put together the color of the two pieces looks different. Picture 2\n* The second picture you will see on the two pieces they are not flush, if you see towards the back there's a lip that I am unable to get that right hand side of the desk flush with the left side. Picture 1\n\n \n\nAre there any thoughts or advice for these two concerns?\n\n \n\nThanks.\n\nJim McGinn\n\n703-966-3766",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 33783108580109,
+  "submitter_id": 33783108580109,
+  "assignee_id": 418155362151,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "closed_by_merge",
+    "color_difference",
+    "erk-ed-tx60r-wn-us",
+    "error_in_consumer_assembly",
+    "no",
+    "no_part",
+    "no_reshipment",
+    "no_return_product",
+    "no_t",
+    "no_white_gloves",
+    "product_inquiries__product_color",
+    "shopify",
+    "the_consumer_to_assemble_incorrectly",
+    "yes_q"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-50698"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx60r-wn-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "color_difference",
+        "error_in_consumer_assembly",
+        "product_inquiries__product_color",
+        "the_consumer_to_assemble_incorrectly"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": null
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "yes_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": "no_part"
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": "no_return_product"
+    },
+    {
+      "id": 33423132470925,
+      "value": "no_white_gloves"
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": "no_reshipment"
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "WV1YNL-5EXRM",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-50698"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx60r-wn-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "color_difference",
+        "error_in_consumer_assembly",
+        "product_inquiries__product_color",
+        "the_consumer_to_assemble_incorrectly"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": null
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "yes_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": "no_part"
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": "no_return_product"
+    },
+    {
+      "id": 33423132470925,
+      "value": "no_white_gloves"
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": "no_reshipment"
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [
+    138548
+  ],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

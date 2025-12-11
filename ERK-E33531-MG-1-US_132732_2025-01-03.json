@@ -1,0 +1,300 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/132732.json",
+  "id": 132732,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "fxfrevsoltn@fedex.com",
+        "name": "Main Invoicing"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2024-12-31T02:13:10Z",
+  "updated_at": "2025-01-24T02:01:30Z",
+  "generated_timestamp": 1737684090,
+  "type": "incident",
+  "subject": "RE: [EXTERNAL] Invoice disputed by Account Number 203459576 SF22840624",
+  "raw_subject": "RE: [EXTERNAL] Invoice disputed by Account Number 203459576 SF22840624",
+  "description": "283083658309-Hello,\n\nMy name is Roseann, and I have been assigned to this case.\n\nI have reviewed the shipment and backup documentation and determined the reweigh charge is valid. However, we value your perspective and understand your concern.\n\nAs a one-time courtesy, I have removed the reweigh charge on this shipment that reduced the balance due on your invoice.  An updated invoice will be sent via your invoicing delivery method on file.\n\nThank you for choosing FedEx,\nEBS Operations - Invoicing Solutions\n\n--------------- Original Message ---------------\nFrom: FedEx Freight [fedex@billtrust.com]\nSent: 12/29/2024 11:48 PM\nTo: fxfrevsoltn@fedex.com\nSubject: [EXTERNAL] Invoice disputed by Account Number 203459576\n\nCaution! This email originated outside of FedEx. Please do not open attachments or click links from an unknown or suspicious origin.\n\n\nA full Invoice was disputed by Account Number 203459576.\n\nInvoice Number:  283083658309\nAccount Number:  203459576\nCustomer Contact:  Erika Hernandez\nContact Phone Number:  844-416-2090\nContact Fax Number:  Customer did not provide\nContact Email:  customerservice@eurekaergonomic.com\n\n\nDispute Date Dispute Amount Dispute Reason Dispute Comment\n12/30/2024  207.94  REWEIGH OR WEIGHT INCORRECT OR INVALID  ERK-E33531-MG-1-US (desk) This box weight does not meet",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 33113049875213,
+  "submitter_id": 33113049875213,
+  "assignee_id": 418155362151,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "chargeback__other_disputes",
+    "erk-e33531-mg-1-us",
+    "no",
+    "no_part",
+    "no_q",
+    "no_t",
+    "shopify",
+    "solution_answered_question"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-46589"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-e33531-mg-1-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "chargeback__other_disputes"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": "no_part"
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "L221LY-EXLVR",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-46589"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-e33531-mg-1-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "chargeback__other_disputes"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": "no_part"
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

@@ -1,0 +1,299 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/133800.json",
+  "id": 133800,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "cgross@staffordsmith.com",
+        "name": "Cris Gross"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2025-01-09T14:39:36Z",
+  "updated_at": "2025-02-02T23:01:31Z",
+  "generated_timestamp": 1738537291,
+  "type": "incident",
+  "subject": "Order tracking assistance",
+  "raw_subject": "Order tracking assistance",
+  "description": "EE -\nCan you please provide me with the FedEx tracking number for this order? It's set to be delivered, but I have received no further details since scheduling my delivery for this morning between 9-11 am EST.\nThank you\n\n\n\nCris Gross | VP Sales and Marketing\n\nStafford-Smith, Inc. | cell: (231) 590-8126\n\nWebsite<https://www.staffordsmith.com/> | Catalog<https://staffordsmith.catalog.fescreative.com/?pid=ODg8801352&v=1.2> | Dealer Of The Year<https://zmba.omeclk.com/portal/public/ViewCommInBrowser.jsp?Sv4%2BeOSSucwgSFEjEirUqaRKYp3K6n3pBrfx5lRafapdfcENh1fq5Z5ZwuywwvnpW2cP9n7CgPk%3DA> | Who We Are<https://staffordsmith-brochure.fescreative.com/?v=1.1>\nunnamed_attachment_1.eml\n\n-- Forwarded part --\n\nExternal sender <customerservice@eurekaergonomic.com>\n\nMake sure you trust this sender before taking any actions.\n\nOne item in your order is on the way\n\nEureka Ergonomic\n\nOrder EE-49023\n\n------------------------------------\nOne item in your order is on the way\n------------------------------------\n\nOne item in your order is on the way. Track your\nshipment to see the delivery status.\n\nView your order \n( https://linkprotect.cudasvc.com/url?a=https%3a%2f%2feurekaergonomic.com%2f70598492464%2forders%2ffd6e27ea73c3768d77ffc176319b98d2%2fauthenticate%3fkey%3d2bdc767cadec510382ebb86a027e5ae7%26syclid%3d120d9da4-9daa-42c5-96d6-369cd677f658&c=E,1,k9gi-uFhEBEU4H0EqdGbEyjaWcytqx0BXtCjJNeJvhC3IzztA-kGmFxzl1Lqy_dk5GkhbSQL_Vg6iDVz50mjbATwlrpPgyliA2IgX4phL_Qj9KA8A7ftVopqvQWZ&typo=1 )\n\n\nor Visit our store \n( https://linkprotect.cudasvc.com/url?a=https%3a%2f%2feurekaergonomic.com%3fsyclid%3dabd58908-4a48-4f90-b135-3cd7cfff910b&c=E,1,oTHqr-BDiVNJ186NRF--s0ebvaDBuxo3F1K5j8kBiYV06si5bxFw5HYyS0BmrsPOZ6kR5Y_obrpsJrzTmFiXAPQEMmz9qASYKwer40nTWf3WKnE9YCwXUdZwGy0s&typo=1 )\n\n\nItems in this shipment\n----------------------\n\nArk Pro L-Shaped Standing Desk (63\"x23\") × 1\n\nRight Side / Walnut\n\nNEWYEAR180\n(-$136.55)\n\nIf you have any questions, reply to this email or\ncontact us at customerservice@eurekaergonomic.com",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 32445850025229,
+  "submitter_id": 32445850025229,
+  "assignee_id": 13658273839245,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-ed-tx60r-wn-us",
+    "no",
+    "no_q",
+    "no_t",
+    "order_status_inquiries__order_status",
+    "shopify",
+    "solution_answered_question"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-49023"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx60r-wn-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "order_status_inquiries__order_status"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "VVGE0J-RV9MR",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-49023"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx60r-wn-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "order_status_inquiries__order_status"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}
