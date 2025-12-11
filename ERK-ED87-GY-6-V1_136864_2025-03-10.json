@@ -1,0 +1,300 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/136864.json",
+  "id": 136864,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "tassiahoskins@gmail.com",
+        "name": "Tassia Hoskins"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2025-02-11T18:26:27Z",
+  "updated_at": "2025-03-10T18:02:57Z",
+  "generated_timestamp": 1741629778,
+  "type": "incident",
+  "subject": "Re: #EE-50737 Order Update – File Cabinet Shade Difference",
+  "raw_subject": "Re: #EE-50737 Order Update – File Cabinet Shade Difference",
+  "description": "Hello! I want whatever tone matches the desk please. As it will be placed together. Yes please send  the second one once inventory arrive thanks \nSent from my iPhone\n\nOn Feb 11, 2025, at 1:22 PM, customerservice <customerservice@eurekaergonomic.com> wrote:\n\n﻿\n\nDear Tassia,\n\nThank you very much for your order! As we are preparing your shipment, we noticed a shade difference in the file cabinets.\n\nCurrently, we have two shades in stock: V0 and V1. The V1 shade has a redder tone, which may not match your desk legs. Your desk legs are in the V0 shade, but we currently have only one V0 file cabinet in stock. Please see the attached picture for reference.\n\n<image001.png>\n\n \n\nWould it be possible for us to ship one file cabinet now and send the second one in approximately six weeks, once our new inventory arrives?\n\nPlease let me know how you'd like to proceed. I truly appreciate your understanding!\n\nBest regards,\nChing",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 33940984502413,
+  "submitter_id": 33940984502413,
+  "assignee_id": 418155362151,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "closed_by_merge",
+    "color_difference",
+    "erk-ed87-gy-6-v1",
+    "no",
+    "no_t",
+    "responded_q",
+    "shopify",
+    "solution_answered_question"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-50737"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed87-gy-6-v1"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "color_difference"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "responded_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "WV16WX-MY5ER",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-50737"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed87-gy-6-v1"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "color_difference"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "responded_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

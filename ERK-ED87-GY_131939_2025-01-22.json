@@ -1,0 +1,298 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/131939.json",
+  "id": 131939,
+  "external_id": null,
+  "via": {
+    "channel": "web",
+    "source": {
+      "to": {},
+      "from": {
+        "ticket_id": 120150,
+        "subject": "RE: [EUREKA ERGONOMIC] Re: Shipping",
+        "channel": "web"
+      },
+      "rel": "follow_up"
+    }
+  },
+  "created_at": "2024-12-23T17:57:24Z",
+  "updated_at": "2025-02-11T14:01:59Z",
+  "generated_timestamp": 1739282519,
+  "type": "incident",
+  "subject": "RE: [EUREKA ERGONOMIC] Re: RE: [EUREKA ERGONOMIC] Re: Shipping",
+  "raw_subject": "RE: [EUREKA ERGONOMIC] Re: RE: [EUREKA ERGONOMIC] Re: Shipping",
+  "description": "This is a follow-up to your previous request #120150 \"RE: [EUREKA ERGONOMIC] Re: ...\"\n\nHi:\n\n \n\nI am following up again because now the desk does not power up.  I cannot raise it lower it, adjust temperature etc.  There is power to the power supply I have verified this but there is no power to the control board.\n\n \n\nIt has been like this for months, I just did not notice since I was not here to use the desk.\n\n \n\nEileen Robarge\n\nMVP of the Team Winner Sheboygan Chamber of Commerce 2023\n\nWisconsin Lakefront Property Management LLC\n\n·         Ashford Place Apartments\n\n·         Bayside Townhomes\n\n·         Manorview Apartments\n\n·         Riverbend Lofts\n\n·         Whispering Oak Apartments\n\n·         Windward Cove Apartments\n\nPhone: 866-542-5851\n\nWebsite:  www.lakefrontpropertyllc.com (http://www.lakefrontpropertyllc.com/)",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "support@eurekaergonomic.zendesk.com",
+  "requester_id": 25442228340877,
+  "submitter_id": 25442228340877,
+  "assignee_id": 418155362151,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "electronic_issues_control_box",
+    "erk-ed87-gy",
+    "fedex_shipping_damage",
+    "no",
+    "no_t",
+    "responded_q",
+    "shopify",
+    "solution_answered_question"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-38370"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed87-gy"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "electronic_issues_control_box"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "responded_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": "771118719699"
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": "0"
+    },
+    {
+      "id": 24007099873037,
+      "value": "0"
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "VVM5WP-02NNR",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-38370"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed87-gy"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "electronic_issues_control_box"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "responded_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": "771118719699"
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": "0"
+    },
+    {
+      "id": 24007099873037,
+      "value": "0"
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

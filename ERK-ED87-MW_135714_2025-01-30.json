@@ -1,0 +1,298 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/135714.json",
+  "id": 135714,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "janelle.c.fowler@gmail.com",
+        "name": "Janelle Fowler"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2025-01-28T15:55:23Z",
+  "updated_at": "2025-02-20T00:02:00Z",
+  "generated_timestamp": 1740009720,
+  "type": "incident",
+  "subject": "Re: Order EE-49320 confirmed",
+  "raw_subject": "Re: Order EE-49320 confirmed",
+  "description": "Hello- Do we know when this item will ship out? Is there a way to expedite this? Thanks! \n\nOn Mon, Jan 6, 2025 at 2:34 PM Eureka Ergonomic <customerservice@eurekaergonomic.com> wrote:\n\nSale (https://eurekaergonomic.com/_t/c/A1020004-1818317EACB93CA0-BEA32365?l=AABdSOnS2RKRjq2ecvy7zedNBzC3EU7EGRQt31dOIshj7v6dzLCXQlrrjhaoAG%2BhxUjUjMFXTNc4HAyQQoFeooqljj2MCF7c0%2BWF8dVpi8IxRxNXFkvP4cKOfYMUniPwvX6LvfuWIeaa16s%2BH5pFLhcYCwz501aG5QpZ0MNpq3b1DBHUAX2WKJYKHz4PLz9YWkNY4R3OQAEdQX5FXV%2F6UWUePoE%2BzdX4MMHBYefahluBlxKqRiXmUEvbL3I%3D&c=AABxWEjS%2BuNWRaqMpYaLwFu52NzPwz94v8gvzRcaez6ROYGUWBpXRLCRKrboO%2FOvOAlEzchx8F2vrRxqoR1DMYodHU6nUQsyKEYb7l58va%2FDeSK%2F47Q5IHKZJWGKoFQPNntYoE8hE5clGqaKxkOgdK6w60CravkCoQPck8qFLUEUwsDyRMKMkNfjb1LwubhZITnagUObMtmuBW8cQzLpRrlPKS7OM9wZ1rpMKALt5zk96UC%2Fft4OBYa76FTfh73PXgOi3rdkaIq6YZXrWPpTokUlWbB28I1dtspB4noXn%2Fumnq8iA6kT4QgBP5yGSNXwnpJCckNZha23eOGNAixXLYIHVvwkjYeM%2B6Juyu%2BHJ9QQJMigXE7W5vCE7viwRXDUf1SMRwnfeWsT6TgT4kvvuLDuKWYyahXUYstOdmBcjgyCvbFikuN5qdso6MMBbZONSdP5Jzh8%2BKfcLnJNWKQCV97nDd5mJdFAfA%3D%3D) | Best Sellers (https://eurekaergonomic.com/_t/c/A1020004-1818317EACB93CA0-BEA32365?l=AAA5umOBtk3R5Gah5XQ1JUBfq%2BCpZmXHZYZ%2BjvybPRlGKdrRrtoeBZKlhJJb%2BabexQp25q%2BuYpnEVQ5WMU9V8pCP1myoXc53Qf9MiPXuToM5ugHI5wovXdkd0UjAcnqR2QQfBd5pOpxJUq04rThu8SJ%2BF%2BJo4GLbF9HFlMZxSIH%2FZtasuTCRIHH%2FPtkZRIXCEMsoPZUQPpN57FfjItnJzOUmZstH90q3mRZCAVyMTcCZNvqTqBXZdg47Jp%2BOP14%3D&c=AABuDoDGrfbiZwAg6W1D09QPJPlbppsaXWGVskc79tZBwMnDDTimpQWU%2B1x4lVpqsfd1FsJgf3uIt5oAQm%2Bc8HKMWIsxy9bhmmWP9cV%2FgeFcOyLWqcAiOz0QOn4C%2FnVMUV3NK2RZMndHssB9ee7dvte7ZDdzl3Jft3tC6Rij207PFCTVL4A%2F3dIUqpiDGNtDoQMItN%2FwzC98A4IEyfvQGBQ65qBKFyG7yFBzY1A8X%2Fy3zWgMOBVhYqB2idIGaG31tTfqTg4e3JinOxA05ahZo9tFyAozKblQV1PLj4apl6KOpLYHuvq9jCh8WMPMloW4qYrPzZ0lxY5tKYByX%2BWnxRifXvv%2F5ZGskbRAJpzz7zCuavZrC2BPVfQs6UW%2FJ9z5%2BmWD8iMLtUdBx8MAf7SjK31JOiz9rx8DqViwWvfvMorIFJKUq4MWXJC5YDYjL9xjI3yCHcGBomAq8dLjcVUms68ivziokmEfKQ%3D%3D) | Shop by Room (https://eurekaergonomic.com/_t/c/A1020004-1818317EACB93CA0-BEA32365?l=AADJ3fX0%2FXCga5i3GYYTGtptmoEREqd1%2FVwQPnD7p44zZg5eU3R8ykka2EOjKRHZOUbMF1o71u5W%2Bvhg9BGQCHoSqjkIUssQ4nj2CI11DY3wqV1MITt7nxBzRG1%2FwXWCncrXfTtmRDgIG87EWoqSU2mlEpT%2BX8%2BuxsM5kk4Ig%2F9biNn50A9iSUXQjUOOWn%2FUvyU5RTsx8oHSkElScNtCbiZzGIqlQVVFjeN3%2FTeWOVpWa6FIZsnEIhpzsy%2BbRgvOG%2FLRHa5f31r%2B0O4%3D&c=AABE1XzNXLedKLCQ9XRxuguEDsKvFiagBlSzHJnLfYGAFpo7huh9eXZUzAzzYHYE9LLTZI69ZQHwaySLV6EjxyuFWWheqoYLPyxENywyGnXQ6YsyviBHv4JetvlLuB2Uxu0MVd8%2FyFgjBmRdp3tb%2F%2Faa06zw%2BifO108yy9XAYNdhl66EVzQJvp1yy%2BsfpMopOxkl%2BCbjkcysATPT934%2FE2OWfiUVrYX7G0x6xExY2Ff%2FKoBwG5bCaBOsiWwBWE1l418r%2FSWVqyDcjQwLTtyB0n4T121LJvqNGdLW3rmMGs2pZIoSXsmBl54o3jp5snLh3jbutaxsIpPRDWXKGWZqlsxBNLgurSQfKzWhEXW0tJwudcpIcrVlA%2BsOIMn4FyS%2B2kPvwcpAoWOW7W8OR4xRwz0INo%2FV%2FH9nud3bN%2FF%2B2fEy%2FQLiAk9mrFdxK89aPs06Zo0poLNbWiKmrauNfw%2F%2Bb7m4kuzM8l7ywA%3D%3D) | New (https://eurekaergonomic.com/_t/c/A1020004-1818317EACB93CA0-BEA32365?l=AABAmMtvvY%2BWrKxtdn6s7IJwvSXEbeWS04eDdRcjTNVaUpWKGVLzFvziye5UqId%2FK3mEYgNZJPMfjJWMf8NBMRPUXdeujaDzo8Pd2jGqzduKv%2B26%2BROc1qIkIZ3Jd2Gik%2BGEdW%2BMnCDuM%2BEE7JfNDnivGgzo7ghOgoFjNjmQDmhLi2z7557S7ris9AeA8%2BE8ExKJU7TImeP7Mli98HFgCyoX1SOIieMfizE28zwvnV%2BE9sb%2FfK7XpI4sQi8nXYOb&c=AAB8Gx%2Fw8IBI0B%2F7OZ%2Bov5UlKLzInSjor7XrGXwfL0virg9udSbYS%2F3yimd0zdL%2F6FxYfFALoK3GgWlfQyFbqPFddI9JxrJpSxPymgdcHuO%2FqdoC6XPWITUOh5e5iTMTRsnyj8CWDmmB9Er%2FkdPLeMK7stpVWZOm8Z0zh8%2BKQwWtEmicmJUqhWgipOFC2YaBSbMOXuBHeyXB4Ly7ARJSNBcGWr0W3ny%2BEXvtDEmlokOqDlRtYglwAEvm2kzvkYqITkaFzF7F%2FiRcr%2FXOypjw3QWzosKyf0QCuCFy7RbIFICZt2hcVADBQ1LGb5OEF42VcBqOJGRvBxpfQStY5umrz%2FUy3hZn%2BgBbp6OYegoBHVlv2bk2RkB7BR8kFna%2BHHKjTcnJRQixGBZn1%2F%2B8JUxDgYNcTgg7gyHzPqEGZCV6toGG04n8ruJvnpnaY5Trinrgs%2FbxgDuREKcwJw3AnBNhibjjuAiHJJTl7A%3D%3D)\n\nThank you for your purchase!\n\nOrder EE-49320\n\nWe're getting it ready to be shipped and will notify you once it's on its way.\nFor orders with both in-stock and pre-order items, in-stock products will ship first, unless you'd like everything to ship together. Just let us know!\n\n \n\nView your order (https://eurekaergonomic.com/_t/c/A1020004-1818317EACB93CA0-BEA32365?l=AAAawLiiECSt3nWGfJWFw94tUqfepDptp5KqbMLX7qI06f3y3kURjO6l1hQ6xg5ZCdlY51Sxv4tFrfblEWGojmBcjswN0Yfrsmw%2BmuyMBCaCY2mRrWM4FfB7VNlCA3Kt4U5y%2FnEW6pUryea3rpBuTbnRKFRL8qEOb9KJwih3KCriTD2Q7i4RBS10er8uAuL0xBshsKkpBKPdQFzmPX6tjc15wk%2BKGENeEHR9PzhQQZqPqrNsill3k%2BuPUZe9evAK9SkSZRNArcTDN75iy0fES8ZH7QMQOKNugZ3kxI2kdW6rGO%2BkwddWmTIzMoxuS9FrRsuCkiBvb72EyW7D2XQ5NcX66c9Fo3dCnQFNRrhgI8Bp&c=AADxyv6x%2FP53IT575sHYNJJNjqmPkaWd31xfSuiPXktkzGvK3nwyJIC0rIt%2BLixLqQLDEopseZnFLC3Ae2JAqJ6jGkT%2FOh066F9EipJ9ewXh26gPzM7LtNqdLgTRREWZQSWWF2sfEtNaEUor942AjQgWkK2XLxWWcz5%2BZTMT9yzwXUY75uJXit2UxN4E5e5GXGtUJDPjC5UtwdFUG2JvWk1mkwWJJ%2BjPhRSD34YpznqQgfyffpsrj6dvR5MYdeMaF9%2BBAUUtBMM%2BtpUKI%2FZw7an7t%2BLZXt3btRz4zpOzXCpXJie6fLD%2Fe7fQQZXERyUx8Mr4eWywUCnIau3sC77KQMgkNMOp0F5KYvtVFkbKfJv3vwSJGUAf2q2h%2BmubqZEuoWijAW2k58lyrzvDeUNArMpZPV2ADwqeaLtGISZ3kNIkqJoLBVJRuroen%2FAndzFAiMTWNQXnhLCfyBO3PyUe3eISxgsauofHqw%3D%3D)\n\nor Visit our store (https://eurekaergonomic.com/_t/c/A1020004-1818317EACB93CA0-BEA32365?l=AACJuN4QOUxzQ8MWH7SU%2Fi7Lr%2FbU7QCquKjY45uZkDYw3Fb%2BNG%2FJ7ibVb%2Fua6lX%2FGy9O5zY5eommHTPh%2FXHi01Frft62uSWeitcQt0Sg3a8dSyU2F8GpAjiaFzvjVMhX%2FftM9jJBJQOv64wcUlNTaUr0lsJvfv3Nr%2FhhExETO73Fecr7Bostgyu5uC98tZYKEgvY3Eye8RPUOB0KsWwfhOv6h9Stjg%3D%3D&c=AAB1yxoSo1RuMrulAzPG7nuhx%2B6EVb3jXEu8UdVcv774C8T2vJJQs7CvYBvmthg%2Fxhid9iwy8OIbf0rbClg9BU5BL1HfMFxQPoKU%2BuNhAwcIB6Z3xI8RhDZlZIG38rEyWu%2FZ1%2FEQ8bOQhgYNBmmeUQP5o%2BCHtQ16vXaxi9W2xWmunpsh6Dfua%2BtqMhbta6PbLRKkYf%2F2Ek%2FjPdUPpLElvPUh30g6eBVqxTcwK4%2B6tJ99FEomtM4I78Ui93E8igqoKpQAgmIDw6%2FX525vnW4Hnn2qR5UaeszJkIq%2FF9zSnLS8EH%2Fy1QrQQjUQt%2BhPYz7GqzTegwQEAjEqx2VqEHM%2BACr0jZvrNItqXAPCRVoQxoPKF7DlaAN6rqY0bXA%2FA0VInOm1SQrlUVkMEN4FlEmznGI7F3vteHt%2FPG6t5LNED1fmEhv1vVJCgaC1oUFh%2FFMj%2Fkep%2BqEZLQD%2BSFI9vbqOJVJKAVy2QSqsBQ%3D%3D)\n\nOrder summary\n\n Zen Pro, 86'' Executive Standing Desk and File Cabinets, Black & Walnut × 1\n86'' Standing Desk / White & Maple\nNEWYEAR300 (-$300.00)\n$4,999.99\n\n$4,699.99\n\nSubtotal\n\n $4,699.99\n\nShipping\n\n $0.00\n\nTaxes\n\n $0.00\n\nTotal\n\n $4,699.99\n\nYou saved $300.00\n\n* For pre-order, we will ship it as soon as it becomes available. Once the order ships, we will send you an email with tracking information.\n\nCustomer information\n\nShipping address\n\nJanelle Fowler\n40828 GRENATA PRESERVE PL\nLEESBURG VA 20175-8721\nUnited States\n\nBilling address\n\nJanelle Fowler\n40828 GRENATA PRESERVE PL\nLEESBURG VA 20175-8721\nUnited States\n\nPayment\n\nending with 6165\n\nShipping method\n\nFree Ground Shipping\n\nIf you have any questions, reply to this email or contact us at customerservice@eurekaergonomic.com",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 33848327600013,
+  "submitter_id": 33848327600013,
+  "assignee_id": 404717562412,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-ed87-mw",
+    "no",
+    "no_t",
+    "order_status_inquiries__other_delays",
+    "shopify",
+    "solution_answered_question"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-49320"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed87-mw"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "order_status_inquiries__other_delays"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "GJPJKG-0Y9DL",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-49320"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed87-mw"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "order_status_inquiries__other_delays"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

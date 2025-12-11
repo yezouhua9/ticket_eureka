@@ -1,0 +1,296 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/133363.json",
+  "id": 133363,
+  "external_id": null,
+  "via": {
+    "channel": "web",
+    "source": {
+      "to": {},
+      "from": {
+        "ticket_id": 123973,
+        "subject": "EE-42750",
+        "channel": "web"
+      },
+      "rel": "follow_up"
+    }
+  },
+  "created_at": "2025-01-06T17:57:56Z",
+  "updated_at": "2025-02-20T00:02:04Z",
+  "generated_timestamp": 1740009724,
+  "type": "incident",
+  "subject": "Re: [EUREKA ERGONOMIC] Re: EE-42750",
+  "raw_subject": "Re: [EUREKA ERGONOMIC] Re: EE-42750",
+  "description": "This is a follow-up to your previous request #123973 \"EE-42750\"\n\nHi team-\n\n \n\nHappy New Year! Following up on the below, I want to see if the status for this standing desk still stands.\n\n \n\nThank you!\n\n \n\n_­­­­­____________________\n\n \n\nDANI SHERIDAN\n\nExecutive Assistant to the CEO, Early Medical \n\nm: (406) 370-8354\n\n \n\nwww.earlymedical.com (http://www.earlymedical.com/)\n\nwww.peterattiamd.com (http://www.peterattiamd.com/)\n\n \n\nThe information contained in this transmission may contain privileged and confidential information, including patient information protected by federal and state privacy laws. It is intended only for the use of the person(s) named above. If you are not the intended recipient, you are hereby notified that any review, dissemination, distribution, or duplication of this communication is strictly prohibited. If you are not the intended recipient, please contact the sender by reply email and destroy all copies of the original message.",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "support@eurekaergonomic.zendesk.com",
+  "requester_id": 29771692525069,
+  "submitter_id": 29771692525069,
+  "assignee_id": 418155362151,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "17.order_returns__product_quality_issues",
+    "erk-ed87-hw-db-1",
+    "no",
+    "no_t",
+    "shopify",
+    "solution_answered_question"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-42750"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed87-hw-db-1"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "17.order_returns__product_quality_issues"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "4D7JR7-3RE9Y",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-42750"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed87-hw-db-1"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "17.order_returns__product_quality_issues"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

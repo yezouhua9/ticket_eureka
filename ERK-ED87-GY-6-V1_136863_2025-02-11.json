@@ -1,0 +1,301 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/136863.json",
+  "id": 136863,
+  "external_id": null,
+  "via": {
+    "channel": "voice",
+    "source": {
+      "rel": "outbound",
+      "from": {
+        "formatted_phone": "+1 (844) 416-2090",
+        "phone": "+18444162090",
+        "name": "EUREKA ERGONOMIC"
+      },
+      "to": {
+        "formatted_phone": "+1 (305) 450-6134",
+        "phone": "+13054506134",
+        "name": "+1 (305) 450-6134"
+      }
+    }
+  },
+  "created_at": "2025-02-11T18:22:32Z",
+  "updated_at": "2025-03-03T19:02:31Z",
+  "generated_timestamp": 1741028551,
+  "type": "incident",
+  "subject": "Call with +1 (305) 450-6134",
+  "raw_subject": "Call with +1 (305) 450-6134",
+  "description": "Call to: +1 (305) 450-6134\nCall from: +1 (844) 416-2090\nTime of call: February 11, 2025 at 6:22:24 PM UTC\nCalled by: Eva",
+  "priority": null,
+  "status": "closed",
+  "recipient": null,
+  "requester_id": 34207995159309,
+  "submitter_id": 418155362151,
+  "assignee_id": 418155362151,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": false,
+  "due_at": null,
+  "tags": [
+    "17.order_returns__product_quality_issues",
+    "erk-ed87-gy-6-v1",
+    "no",
+    "no_t",
+    "responded_q",
+    "shopify",
+    "solution_answered_question"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-50737"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed87-gy-6-v1"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "17.order_returns__product_quality_issues"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "responded_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "WV16Z6-1VVJR",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-50737"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed87-gy-6-v1"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "17.order_returns__product_quality_issues"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "responded_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}
