@@ -1,0 +1,309 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/134297.json",
+  "id": 134297,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "paulbeck75@yahoo.com",
+        "name": "paul beck"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2025-01-13T20:39:18Z",
+  "updated_at": "2025-02-20T00:02:03Z",
+  "generated_timestamp": 1740009723,
+  "type": "incident",
+  "subject": "Re: Pics needed for the error code #134244 EE-47532",
+  "raw_subject": "Re: Pics needed for the error code #134244 EE-47532",
+  "description": "The error code is E-1.  \nI disconnected and reconnected the connections for the legs in the wiring, several times along with disconnecting and swapping out the connections for the legs into the controller several times. I also unplugged and plugged back in several times to help it reset and I pushed both the up and down arrow several times at the same time to see if I could get it to reset as well. The desk raised up just fine and then when I went to lower it, it gave me this error. \n\n\n\nBest Regards\nPaul Beck\n573-645-7577\n\n5113 Edinburgh Waye\nJefferson City, MO 65101\n\n\n> On Jan 13, 2025, at 11:59 AM, customerservice <customerservice@eurekaergonomic.com> wrote:\n> \n> ﻿\n> Paul,\n>  \n> Please email us the error code, and the pics of the problem so we can confirm the faulty parts.\n>  \n> Thank you!\n>  \n> Ching\nimage2.jpeg",
+  "priority": "high",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 33446275073805,
+  "submitter_id": 33446275073805,
+  "assignee_id": 418155362151,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [
+    29429814687885,
+    32468602586765
+  ],
+  "follower_ids": [
+    29429814687885
+  ],
+  "email_cc_ids": [
+    32468602586765
+  ],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-ed-tx63-wn-1-v1-us",
+    "error_codes_e01",
+    "no",
+    "no_t",
+    "responded_part",
+    "responded_q",
+    "shopify",
+    "solution_ship_replacement_parts"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-47532"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn-1-v1-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "error_codes_e01"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_ship_replacement_parts"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "responded_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": "responded_part"
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "4D05W2-XDEMY",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-47532"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn-1-v1-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "error_codes_e01"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_ship_replacement_parts"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "responded_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": "responded_part"
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [
+    146097
+  ],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

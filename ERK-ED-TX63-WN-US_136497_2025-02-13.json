@@ -1,0 +1,293 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/136497.json",
+  "id": 136497,
+  "external_id": null,
+  "via": {
+    "channel": "web",
+    "source": {
+      "from": {},
+      "to": {},
+      "rel": "web_widget"
+    }
+  },
+  "created_at": "2025-02-07T00:50:45Z",
+  "updated_at": "2025-03-06T00:01:49Z",
+  "generated_timestamp": 1741219309,
+  "type": "incident",
+  "subject": "I purchased the Ark Executive Standing Desk on Tue...",
+  "raw_subject": "I purchased the Ark Executive Standing Desk on Tue...",
+  "description": "I purchased the Ark Executive Standing Desk on Tuesday, February 4th (so I just got notification of shipping). Today I got an email saying the same desk is now an additional $300.00 off on your website. Could I have this price extended to my purchase out of good faith as I still haven’t received or used the item? My order number is EE-50876, I paid $1,999.99. Obviously, I’m excited for the desk, just feel like the price drop could be honored. Thanks. \n\n------------------\nSubmitted from: https://eurekaergonomic.com/?srsltid=AfmBOoqmhd4HjJ3hOeWPXf7atvxz5tu1QuPAi9Tm5jhfGv89XcxH5q64",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": null,
+  "requester_id": 34107226050317,
+  "submitter_id": 34107226050317,
+  "assignee_id": 404717562412,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-ed-tx63-wn-us",
+    "no",
+    "no_t",
+    "pricing_and_discounts__other_prices",
+    "shopify",
+    "solution_refund_partial",
+    "web_widget"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-50876"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "pricing_and_discounts__other_prices"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_refund_partial"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "L2YEVM-D5ND3",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-50876"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "pricing_and_discounts__other_prices"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_refund_partial"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

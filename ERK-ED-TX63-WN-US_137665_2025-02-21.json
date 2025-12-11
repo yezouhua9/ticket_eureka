@@ -1,0 +1,378 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/137665.json",
+  "id": 137665,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "trevor@tcbolton.com",
+        "name": "Trevor Bolton"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2025-02-21T04:45:53Z",
+  "updated_at": "2025-03-13T20:02:10Z",
+  "generated_timestamp": 1741896130,
+  "type": "incident",
+  "subject": "Re: Message from Eureka Ergonomic",
+  "raw_subject": "Re: Message from Eureka Ergonomic",
+  "description": "No problem. Our ISP is based out of Oskaloosa, hence the IP address. \n\nAttached is a water bill showing our address in the top left corner.\n\nPlease let me know if this is sufficient, or if you require anything further.\n\n\nAll the best,\n\n\nTrevor and Christina Bolton\n\nOn Thu, Feb 20, 2025, 5:16 PM Eureka Ergonomic <customerservice@eurekaergonomic.com> wrote:\n\nDear Customer,\n\n\nThank you for your purchase! However, we need to place your order on hold as it has been flagged as potentially high-risk due to several reasons, including the Location of IP address used to place the order is Oskaloosa, Iowa.\n\n\nTo ensure the security of the cardholder, could you please send us a picture\nof a utility bill showing your name and address on it.\n\nWe appreciate your understanding and cooperation.\n\nEureka Ergonomic\n844-416-2090\n\nIf you have any questions, reply to this email or contact us at customerservice@eurekaergonomic.com",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 34451547559181,
+  "submitter_id": 34451547559181,
+  "assignee_id": 404717562412,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-ed-tx63-wn-us",
+    "no",
+    "no_t",
+    "risk_orders__medium_risk",
+    "shopify",
+    "solution_answered_question"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-51478"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "risk_orders__medium_risk"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    },
+    {
+      "id": 41839529461645,
+      "value": null
+    },
+    {
+      "id": 41839562134669,
+      "value": null
+    },
+    {
+      "id": 41839562136973,
+      "value": null
+    },
+    {
+      "id": 41839576958349,
+      "value": null
+    },
+    {
+      "id": 41839576958733,
+      "value": null
+    },
+    {
+      "id": 41839591885453,
+      "value": null
+    },
+    {
+      "id": 41839591907213,
+      "value": null
+    },
+    {
+      "id": 41839591910285,
+      "value": null
+    },
+    {
+      "id": 41839591914765,
+      "value": null
+    },
+    {
+      "id": 41839591917197,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "9EWDEK-1Z310",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-51478"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "risk_orders__medium_risk"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    },
+    {
+      "id": 41839529461645,
+      "value": null
+    },
+    {
+      "id": 41839562134669,
+      "value": null
+    },
+    {
+      "id": 41839562136973,
+      "value": null
+    },
+    {
+      "id": 41839576958349,
+      "value": null
+    },
+    {
+      "id": 41839576958733,
+      "value": null
+    },
+    {
+      "id": 41839591885453,
+      "value": null
+    },
+    {
+      "id": 41839591907213,
+      "value": null
+    },
+    {
+      "id": 41839591910285,
+      "value": null
+    },
+    {
+      "id": 41839591914765,
+      "value": null
+    },
+    {
+      "id": 41839591917197,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

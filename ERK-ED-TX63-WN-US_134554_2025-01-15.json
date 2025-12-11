@@ -1,0 +1,300 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/134554.json",
+  "id": 134554,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "lornavaughn1322@gmail.com",
+        "name": "Lorna Vaughn"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2025-01-15T16:58:05Z",
+  "updated_at": "2025-02-05T01:01:26Z",
+  "generated_timestamp": 1738717286,
+  "type": "incident",
+  "subject": "Fwd: Shipping update for order EE-49398",
+  "raw_subject": "Fwd: Shipping update for order EE-49398",
+  "description": "Hi - this said it would arrive yesterday but it didn’t. \n\n\n---------- Forwarded message ---------\nFrom: Eureka Ergonomic <customerservice@eurekaergonomic.com>\nDate: Fri, Jan 10, 2025 at 10:57 PM\nSubject: Shipping update for order EE-49398\nTo: <lornavaughn1322@gmail.com>\n\n\nOrder EE-49398\n\nYour shipping status has been updated\n\nThe following items have been updated with new shipping information.\n\n \n\nView your order (https://eurekaergonomic.com/_t/c/A1020004-18198DD099966701-502DF66B?l=AAAktncbtlD%2BVFVl%2BlRSGGCr7eT1UmZeA3BHQ%2BENHlCFhhS1YXVxtYDAnjrT%2FuJ3nQ5kmrsiwpPYSZGW6VN336QMW2LHpfjRl7ue8zUNWNBtXnt%2FxdL1uN9D6FLZ5ufnRJqJWJSSonu12gYOCi00KnhHxElA04VqMOkKh%2B1baihx9LlRa4VegIuJWOwn90tftEuk0QBR5ca6J1eswidSZR0PYYEiL%2FlT0UoMLoIr26AZAIzALcRtQzpA6PdhFnVw4Jr8LNx6nV3pA8aQAve2HgQCNvlFSrs1WrEl8z5TVnDNgHwc%2BdFNvrF37%2B3txEVjn3RstXxHikz9E3gbSAw1h7cB1HI1H8LVob7R40gymWk1&c=AADaJZzcrT7C9dVpGjDbdSEV8v%2FrT4Q5Pllwd0kRABiFnOhypuhoU5BMZN%2FeC3SIfp6Tctl5lRU7J558sU4IGuh%2FcTWx7b92CNV5eDydm7rJbLQPp87ZwOc9I5nEc5Z01QWTEG0nQHF8jDDmcl51FswyScpiyWD4hG%2FNBcj81zzlMDi0oR8PZp4HImNGi7JMFzpXOIfQpiiDFGPNcPosrYj1UFEF55OYEKo8J1FKhDfQ75L2qbqgcgxLXdcRcZxab8jAKgEEPC1azMrxFmMg3sdcHgCtlI4HO3cRyyoCHkm6ojZn3n%2BIxC49dne7GDGLMXvbaZb7JE8nm5mcyx6cSdF7n%2FoohQK%2F4wQzI6XcF3jvW6RWF5dz5NiCa2%2FvRAAYBCOZJ86FQy3HcqHbF%2FNzCqOPsBBfku%2BVbbsOMqrUIe1kZQ0qAFiaOb8hAXKrvD6p01A87dN4k4PlxKz%2Fs0IINu21slOpkm71CXin86WMJw%3D%3D)\n\nor Visit our store (https://eurekaergonomic.com/_t/c/A1020004-18198DD099966701-502DF66B?l=AADeKo3HKXLed%2F6ZPf1wUp0Znmy7S%2BrZP9tK%2BhLyZB11ILeEHB%2FKfRzcvcgtLnggakjmeVbNNjl35v2IPynA9zdlIztOGLR1Ih1hiz4Mlc%2FM8ukRIyFTtJZhfYoWYKcfx1Kef350KwU%2B9jk%2BqIDv1Y0GRS90mQW7XMylNovr88q1Oc2EcsSJO74C6qUIZyqwpD8bNJAfR%2F6CTKIw63S%2B5%2Bk5P6zIng%3D%3D&c=AAB3PVgEDmQxbNOYdjJ7NwQOxlnVhdddPkT3hp5lFOwPwwo%2B7Rc%2BU6lnzUsgXx4ukEfPmytMt053M9HoV4vnrhe6YiE7EUIQKs4pVxRg0BzmusqM1Zd9%2BpokQUfdf3kh6yye7VkSumKZM%2BBm8E8r3Ehn%2BC8jF1Z%2FO21dw7IDj8w8SWSyq%2FneWdFlrWgpBrmUYmz2ugsaB0uNeCTL1u6B2KU8toBzppNk%2Ful3XF%2F3iK2GSLM2ghkRaLbw7S8lVj%2BOapiurXmJ%2BkEx8QNzvH9%2FdyON%2Fm0tTkzHQzN2JytBc9iap0TMDQVXqnLQ%2F0ASrSN8%2BGlct1vHoRerP%2Bc%2FykuZ8QjdK%2BVWtHxhdg%2FdnHm0DqsP2ACg1dQ29xOwM8sb5LbpKyL%2BvOySQ5CO1C5TtKsPiCSqLdCjB5DcDZ6sxH0PP%2Fl8QkNtyfa0sEYdres1FWFtbL1yp3q8AqAxqHFMku4nqmuhsaprMi1qsOBZthkzBg%3D%3D)\n\n\nLTL tracking number: 771310112659 (https://eurekaergonomic.com/_t/c/A1020004-18198DD099966701-502DF66B?l=AAC2DlqjLbPNHs8PF5zBXvkqWOiZ7qg2qIgnMmtoyaR%2FvFNKGc%2F37f%2BKmv1WLZ210BX7IRO%2F1CdT0iLEI6m1aDi5Nbk3n5MB9Jr90204uskr1Vz9%2FzT9%2FlMOmsQoNrg2RyWyrT5HjIag5b9EyDCWz0wCIi1m8dXQUtoEp5JGyQPR1I%2Frb4tIaLZcNmZkEw4xQtCyQg%3D%3D&c=AAB8NklUpFzAl8LWBhgEgWRKdb3oy1%2BMBvI1ATx%2FDzJ5pgPpZFw%2FROX4b%2BiVCwaubatEqwo46EtmD%2BvQxE5OpLEUNOETIaRi6x7lWNbN5u532wb3Fq%2F5uF9oXrRTD0%2Bu865UPhzWobHP4E4DFrMVuEfDE2Hulys599zPJ0zjTpXU%2FatOaa77ry8jD4DTHn9zFGlt9qko2V4UGxNivXgTb01XCrOg%2Fg%2BoMU3frCPpsRibWFB8FHz5M59x4bNovT40DYTVsfSoK2%2FKbw8K791AgrqdU%2FiOgjXP0JMkjAo03p5%2B3U2jsm1Zx1eKpAAV9gHE4wSp%2BJE4GBoJh6f29Ql1oBkMwCM%2BlLh7Q%2Folbq539J4lcYnvL1K1Ru6w5P0l3SoAjKevAcKc4NB9NrijvTO6tlJre2VhcYXF%2BkBX9B4fFrRemwA867m8G05NwEpnuuCTDWrOwGv%2FCidzp%2B%2FNLFC4LTjPyv7PEDww9inq%2FhUnyg%3D%3D)\n\nItems in this shipment\n\n Ark Executive Standing Desk (63\"x29\") × 1\nWalnut\nNEWYEAR100 (-$100.00)\n\nIf you have any questions, reply to this email or contact us at customerservice@eurekaergonomic.com",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 33349586915981,
+  "submitter_id": 33349586915981,
+  "assignee_id": 29227740004877,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-ed-tx63-wn-us",
+    "no",
+    "no_part",
+    "no_q",
+    "no_t",
+    "order_status_inquiries__order_status",
+    "shopify",
+    "solution_answered_question"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-49398"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "order_status_inquiries__order_status"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": "no_part"
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "L2KDEM-7ZY1R",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-49398"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "order_status_inquiries__order_status"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": "no_part"
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

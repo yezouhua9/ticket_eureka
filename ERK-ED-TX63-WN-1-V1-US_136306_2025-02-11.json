@@ -1,0 +1,299 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/136306.json",
+  "id": 136306,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "mpryan94@gmail.com",
+        "name": "Mike Ryan"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2025-02-04T20:30:30Z",
+  "updated_at": "2025-03-04T01:01:54Z",
+  "generated_timestamp": 1741050114,
+  "type": "incident",
+  "subject": "Re: Your Order is Ready for Shipping! EE-50687",
+  "raw_subject": "Re: Your Order is Ready for Shipping! EE-50687",
+  "description": "Could you please provide a quote for assembly?\n\nOn Feb 3, 2025, at 8:06 AM, customerservice <customerservice@eurekaergonomic.com> wrote:\n\n﻿ Your Order is Ready for Shipping! EE-50687\n\nDear Mike,\n\n\nThank you for your order! We're excited to let you know that your new desk is now ready to ship. Here's what to expect:\n\n\nPackage 1: This contains the legs of your desk, neatly packaged in a cardboard box (32x20x15 inches, 69 lbs). You will receive the tracking number by email once the package is on its way.\n\n\nPackage 2: The desktop, secured in a sturdy plywood crate (70x36x14 inches, 229 lbs), will be shipped via an LTL freight carrier due to its size and weight, ensuring it arrives safely. We will send you the carrier details and tracking information by email once it has been dispatched. Please be on the lookout for a phone call from the carrier to schedule a delivery appointment.\n\n\nFor the setup of your desk, if you require assistance, feel free to reach out. We can connect you with a professional assembler nearby and provide you with a quote.\n\n\nOnce your desk is assembled, remember to lift or move it by holding the metal support bracket beneath the drawers, not the legs. Always move the desk manually, without tools or machinery.\n\n\nShould you have any questions, please don't hesitate to contact us at customerservice@eurekaergonomic.com or call us at 1-(844) 416-2090. We're here to help!\n\n\nWarm regards,\n\n\nEureka Ergonomic Customer Support Team",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 34044255122573,
+  "submitter_id": 34044255122573,
+  "assignee_id": 418155362151,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-ed-tx63-wn-1-v1-us",
+    "no",
+    "no_t",
+    "shopify",
+    "solution_answered_question",
+    "white-glove_service__quotes_and_service_time",
+    "yes_white_gloves"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-50687"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn-1-v1-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "white-glove_service__quotes_and_service_time"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": "yes_white_gloves"
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "92JKN9-RGE10",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-50687"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn-1-v1-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "white-glove_service__quotes_and_service_time"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": "yes_white_gloves"
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

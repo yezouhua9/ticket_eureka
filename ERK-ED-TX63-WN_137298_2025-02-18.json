@@ -1,0 +1,296 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/137298.json",
+  "id": 137298,
+  "external_id": null,
+  "via": {
+    "channel": "chat",
+    "source": {
+      "from": {},
+      "to": {},
+      "rel": "chat_offline_message"
+    }
+  },
+  "created_at": "2025-02-17T21:20:52Z",
+  "updated_at": "2025-03-10T21:02:10Z",
+  "generated_timestamp": 1741640530,
+  "type": "incident",
+  "subject": "Offline Message from Hunter",
+  "raw_subject": "Offline Message from Hunter",
+  "description": "Message sent: 2025-02-17 09:20 PM UTC\n\nName: Hunter\nEmail: hunterb23@gmail.com\nPhone: -\nNotes: -\n\nIP: 192.24.200.60\nUser Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36\nCountry: United States\nCity: Florence\nURL:  \n\nChat ID: 2502.10214451.Ud69qCuNYoIXb\n\nOffline transcript: Hi, I've purchased an Ark ES  desk from a third party but it's only come with box 2 of 2. I'm wondering how I can purchase only box 1 of 2.",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": null,
+  "requester_id": 34350717206413,
+  "submitter_id": 34350717206413,
+  "assignee_id": 13658273839245,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-ed-tx63-wn",
+    "no",
+    "no_part",
+    "no_q",
+    "no_return_product",
+    "no_t",
+    "product_inquiries__free_product_or_parts_request",
+    "shopify",
+    "solution_answered_question",
+    "zopim_offline_message"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "NO"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "product_inquiries__free_product_or_parts_request"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": "no_part"
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": "no_return_product"
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "L3GN31-LEGVR",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "NO"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "product_inquiries__free_product_or_parts_request"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": "no_part"
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": "no_return_product"
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

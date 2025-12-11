@@ -1,0 +1,306 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/133846.json",
+  "id": 133846,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "szaborsky@hotmail.com",
+        "name": "Stephen Zaborsky"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2025-01-09T19:05:03Z",
+  "updated_at": "2025-01-29T21:02:25Z",
+  "generated_timestamp": 1738184545,
+  "type": "incident",
+  "subject": "Re: PARTIAL SHORTAGE INVESTIGATION FOR PRO 283909307040-R0",
+  "raw_subject": "Re: PARTIAL SHORTAGE INVESTIGATION FOR PRO 283909307040-R0",
+  "description": "I am the purchaser not the shipper. I have cc’d customer service from the shipper on this email so you can sort it out.\r\nThanks\r\nStephen Zaborsky\r\n\r\nOn Jan 9, 2025, at 12:15 PM, Latisha Lewis <latishalewis@fedex.com> wrote:\r\n\r\n﻿\r\nThank you for choosing FedEx Freight and your attention to this matter! This shipment was intended to be delivered on tracking number 283909307040 R0 but is showing complete short in our system.\r\n\r\nShipper: Western Post\r\n\r\nConsignee: Stephen Zaborsky\r\n\r\nBL / PO Ref #: 10603611 / EE-48741\r\n\r\nWould you please provide verification that the entire shipment was tendered to FedEx.\r\n\r\nIf FedEx did not receive the missing product, please provide that information so this tracking number can\r\nbe updated to reflect accurate information.\r\n\r\nIf FedEx was tendered the entire shipment, please provide a value and a detailed description (item #, part/serial #, packing list, etc.) for the missing product.\r\n\r\nThank you\r\n\r\nLatisha Lewis | OS&D| Service Center Support | FedEx Freight JOT\r\n| Office: 815-280-6571 opt 3 |Fax 901-492-9453 |1965 Terminal Court, Joliet, IL 60436\nBL 283909307040.pdf",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 32934625174541,
+  "submitter_id": 32934625174541,
+  "assignee_id": 418155362151,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [
+    33353887614605,
+    33353887675149,
+    33353887734029
+  ],
+  "follower_ids": [],
+  "email_cc_ids": [
+    33353887614605,
+    33353887675149,
+    33353887734029
+  ],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-ed-tx63-wn-1-v1-us",
+    "ltl_issues__lost_or_stolen_items",
+    "no",
+    "no_t",
+    "shopify",
+    "solution_reship_item"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-48741"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn-1-v1-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "ltl_issues__lost_or_stolen_items"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_reship_item"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "L2MGRZ-NYW3Y",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-48741"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn-1-v1-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "ltl_issues__lost_or_stolen_items"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_reship_item"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

@@ -1,0 +1,298 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/132733.json",
+  "id": 132733,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "reweighreviews@fedex.com",
+        "name": "WRO-HRO Reweigh Research"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2024-12-31T02:18:21Z",
+  "updated_at": "2025-01-27T17:02:55Z",
+  "generated_timestamp": 1737997375,
+  "type": "incident",
+  "subject": "Case 22840619 FW: [EXTERNAL] Invoice disputed by Account Number 203459639",
+  "raw_subject": "Case 22840619 FW: [EXTERNAL] Invoice disputed by Account Number 203459639",
+  "description": "Hello,My name is Roseann, and I have been assigned to this case.FedExs Reweigh Verification Process was performed at a FedEx Freight Service Center and determined the weight from shipment didnt match the bill of lading.  When the weight doesnt match, the weight for the shipment is automatically updated.  My goal is to confirm the correct weight for this shipment but I will need two additional pieces of documentation from you for the commodities shipped to do that.  Please provide the following documentation within five (5) days: packing list or sales invoice with reference numbers will work but will need to include the ship date, shipper, consignee, weight, and the quantity of item(s) shipped   catalog page/webpage linkOnce I receive the two additional pieces of documentation with the information noted above, I can continue my review, reconcile the weight for the shipment, and make any applicable updates.Thank you,RoseannEBS Operations - Invoicing Solutions--------------- Original Message ---------------From: FedEx Freight [fedex@billtrust.com]Sent: 12/29/2024 11:46 PMTo: fxfrevsoltn@fedex.comSubject: [EXTERNAL] Invoice disputed by Account Number 203459639\nCaution! This email originated outside of FedEx. Please do not open attachments or click links from an unknown or suspicious origin.\n\nA full Invoice was disputed by Account Number 203459639.\n\nInvoice Number: 282837645901Account Number: 203459639Customer Contact: Erika HernandezContact Phone Number: 844-416-2090Contact Fax Number: Customer did not provideContact Email: customerservice@eurekaergonomic.com\n\nDispute DateDispute AmountDispute ReasonDispute Comment12/30/2024251.00REWEIGH OR WEIGHT INCORRECT OR INVALIDERK-ED-TX63-WN-1-V1-US (desk) This box weight does not meet[Inline image URL : https://secure.billtrust.com/SmartTrack/TrackIt.php?imageID=dot.gif&cID=3015&eID=433909760] [Inline image URL : https://u7903245.ct.sendgrid.net/wf/open?upn=u001.erIcULST9J0b1I70VGwVpJ-2FVQ24vBv6Rlk-2BhEXlnsZErRtYfcIHzaYlNEkJfx6rcorgI6YZ-2FfEoziVvSWCUSEOPtMympYamWSFJFIE7MWsQaqeM0x-2BR0T3uiUs35wVg19EvoMwRn1aBKRwp4OBMtIxvOiAJiV1m-2Brwirs2zZB9Xa4l2wpl632v0wKVinuUACSz9khpijleIu4BZTPjgfL5XhTgIPJyo-2BvuaJkiUxGJfKAPFvh6cvHX2gnmeLsQfnJw9q-2BqoeE-2FiweUCQ5P-2FgAAq1Jf1-2FDFfZkPKw-2BpH5XRIA4In20JTYfJerChHsmkgtzWcQF1eaqvKKLeqrFJXKwQBJ-2F0wvbs8UkNduk3AeiYY-3D]",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 33112685380621,
+  "submitter_id": 33112685380621,
+  "assignee_id": 418155362151,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "chargeback__other_disputes",
+    "erk-ed-tx63-wn-1-v1-us",
+    "no",
+    "no_t",
+    "shopify",
+    "solution_answered_question"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-46662"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn-1-v1-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "chargeback__other_disputes"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "GJJPP4-LZZ49",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-46662"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn-1-v1-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "chargeback__other_disputes"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

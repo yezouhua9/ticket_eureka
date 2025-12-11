@@ -1,0 +1,299 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/133460.json",
+  "id": 133460,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "chops1911@icloud.com",
+        "name": "Charles Hopkins"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2025-01-07T02:30:04Z",
+  "updated_at": "2025-02-25T23:01:56Z",
+  "generated_timestamp": 1740524516,
+  "type": "incident",
+  "subject": "Re: Order EE-48959 confirmed",
+  "raw_subject": "Re: Order EE-48959 confirmed",
+  "description": "I got a notice that my order shipped today but have not heard from white glove service about coordination. Please advise. \n\nThanks,\nCharles\nc 240-421-7034\n\nSent from my iPhone\n\nOn Dec 31, 2024, at 4:37 PM, Eureka Ergonomic <customerservice@eurekaergonomic.com> wrote:\n\n﻿ Thank you for your purchase!\n\nSale (https://eurekaergonomic.com/_t/c/A1020004-181660B31388E106-05D66288?l=AAC%2BiHZiKX7yQedMmfyhMwKMHEvmrBxBZBiu9WRf0Vpn14Llxrr%2Bh%2FS26xJL3bNsGMW1TCGief7e7S7y8t%2FogiJxmqh%2Fh13QRtMVyXQA3op%2F7iTAt81JJzNx5uqCGNker80auUXqKPRJalazqluZGsPF5JcMiZkWBZgYlfqUnAfTEHwytOkTxFdL3WEOXmQ4Aoka%2FiTjmzae%2Bv5Nlu0iv3IMIqBpm0JHVPycALAzRXGnLetCrBk9tAr5sVM%3D&c=AAAq5B519iQxz1rBXh5uANpp%2BQaXZXbj50v2pZtw4wK5UXKhgOeAGOLSOhXaBgh%2BsxctA%2BX%2BfTnNqXNCVSc6mgnn966tIaE2cXK8DYbFvR4u7bUSTqgvDlwH9fqznOxMID3X%2FJXKn4QqGoTnk%2FByjjK5O5JxyHQjTNL18WMv2%2Fo0OdLE7FmYwjOZ2A3pHrI7N2qzZv6d%2F%2FVC%2BGEHhif1n4KktptTC%2BAiCtAGJ78PpAPTBwfHB6rxvOG%2FKabaBDsGY1p2IQNGwdLd0QmuHZzuYIpcqT9GEOWMAzp040wyiHa5A%2BhrgJKgBVjff4O8%2F7cx1t4yS4uoRLtEbiDqS1g26jqulj7Rso%2B%2B7D5Q0VeEaDA1GNLje5ltRSjCPbbxvBt60zX2wwWhARongjeTZ7czp6zkdEyfgOitMQRumXOPYiC140zdKThZuKZHjBfMbFGgBBw0BxRMMbOr9dwRDtePDyx2c67VfMtrTw%3D%3D) | Best Sellers (https://eurekaergonomic.com/_t/c/A1020004-181660B31388E106-05D66288?l=AABOpxqVpjVWP34UT6Uz3%2FnG5ABCULMSxWXK%2F46AUMBlpW9PR%2B2Q6DONxjYIODEBVORw8174huJw674itY0EdPavuvZsYe6NjHJ%2Bby6Lcg1KhNKryiaVYY3iX416LOcX7AlNkYC2KMM1ZvrpozCm%2B%2BKIgPMxDWSL2fHiGNO6zMKmXSjiEehl1Ym9NfCPElWXe6k3zcoWi1Fn1vUhA2hlynjtunigf1OGP5r7bDx2oXbt3cw3ftWNoNEbxTfT74o%3D&c=AACRsh8hg5GTFyG3utpyam6aQKsznayK4t03bqJqlRQuh8mphV5oLYB8%2BeBIAgVZOUn4ONRSr7As7lWyBt7ZCLDty500gKcTtJDtih%2FeXyboZPP7WFr%2BdJMvfwQiiqKFAfXjSOPDUOndXStr4rkkltI3YcAR2vCpqECIye4lCeJK9O7QHQtXaDFzSBY3ic2HDTly7UHzlhEp8xX7E9%2BQS3GU4uVF%2FRvYH3LNb31Min53NaDI89WSZDqUaT7BKrzLoAyEfCRp51WimWuSNd5J1QiGDUKYeE7RprxWV5COr5cggl4X%2FNeBQejEXdPTW61raf5Ev3Ub%2FItIcRLt2HRdwd0G5RET62IG8TMoCBc0KxVSWzbXrPz9jyAr92Btnp1HMJpOFjjAB%2B2DtlQCBpgx2Bd7bEc63OZO2yC1Urcxh3lfprCnrRxEPWdRqjPU7bm61SW270GbtUuzffclcm3R2hUIQ9yy5htppw%3D%3D) | Shop by Room (https://eurekaergonomic.com/_t/c/A1020004-181660B31388E106-05D66288?l=AADrnjteeOaJlVLhUUwvLGX5IeQXdSXw7jljXf95cY6z3SQ92qPK1tJbAjsgzdPTF1lp9hoFjEqfKJUo1ZAess84gg1KO0f%2FagLYnl7GMC9jxzgyPuLw5O7kXv6fOSWV%2BPuFlEmjlp0e%2B6v6QL3DUT72EzZImEvr6AVJm%2BO4FyCOzgAgwx0IEJ%2B9S4zthOSmXh1HVjLjd3WtLUH1WDVegttS6%2FwSf4a%2F5j9Jt5pXb2jBQDZSw7QTBfLaPuOUftN3izn7qApjSH%2Fix24%3D&c=AAD4Sk%2BDaOT%2B4k0%2FugGva%2BZLAnV5RnCUpDLfWqnLzc0Klo1Tii8hlgFLj7fyqbB58K7vjAUOTuo0nKKsFT%2FMsDODG1EV%2BdVa6cQH6VaiUYGQyZZFd5ZnzkN0uEggpqvfgxlvqApLdGdY%2FaE6iIaKfQPYlUnj%2BqB5pUNrkzDDTamqYOU5kjnphUXmI28Zd1aWmkTM25RnZ7JZAZdj5oianOFRhqGvqrVMG4hzuVzVadkOIiV5hMFgjxpt3usePCD8CKCZLRGYXVmy5S4JYPKGxU1Tr6HM%2FVH8qvf%2Bu%2BnEW9StSyoogsBMwu9l2zW0YxyoeVgFNXHp5SBBpw%2FyGJaFfWlxi1ytANbXYUvI9DNqAMUl7wd%2FMEchu7Lh%2F2nMe71E1mHYKOHyuDaQiQMcn9Fl%2B2XN%2Ftgfw9Zmlulrtuu3vSZlim33SRtuAXbjWsQDYpxsCoS2Is4N6x%2BsCIYYZqk5Pd1J02z2qIpAtg%3D%3D) | New (https://eurekaergonomic.com/_t/c/A1020004-181660B31388E106-05D66288?l=AADYYTe0r3wfDOwrw1jE62XDmZKk1aYcCK5YSR6TVhL752qoJjyXdqqT8aDQE%2FN7GxqrhH3lQcf6A18oRcnAnn4wUnp04ZvFc0tgjBoG9g0AqXf%2FzbPvP0OdszDu1C9Q45EPV1h%2FEtzU8DYBUY1obzoTmm7WX9u0YEx%2FDr8K7ZJydlxFtCv9saYKg%2FsLhms1hhnMKf8Ka%2BfALHFlGes%2FAVLeSnseE32fJxTeRbQr0VHD659jJZ1VZ6clTzRwhIFc&c=AADEQmfGiVdDnSH2LuNBw3U2rZw2n2Lzdv3AkWirujOYTGb5ev1KEGZx%2F%2BCxINyr%2FbVS%2BmnipONrNuH6gJIEgIXLVkYZ4VurmxTEvoh2TAXATGbeecWLzi0fPGrx0Bn9YHq28ebmOvJb25cd%2B%2B3cSZ9nyJYjaPGxGXta5qkcvcCIyGA3IGn85yFnOrrDvTloap0lZUUxJdgRl7o7R3m%2FYhv2NNscU020i%2B2K4UOFf8raYHMB59rLIwjMRk7H7iNTqa%2F4U%2BN3moCfiLmePMcyrJ0qwzP8c2ed7p3BoUSCZsgz28u3RrkRitHRgyEgaelFwvboRhlnHlOE%2FL72Fz%2BaJboI06oAiv7NT0CBN1oWzxlVVDBADnQI8xnQ%2Fc9nw5WYv2vW%2BLSRgKd6l3pg3i5amfs76a787cUnPjG0JYXaLPMmYKZ5U9bKf2qjcktDjL%2FncAq9sECFzZXZxEChF2vQiTBRmqxy8G%2FtIA%3D%3D)\n\nThank you for your purchase!\n\nOrder EE-48959\n\n \n\nView your order (https://eurekaergonomic.com/_t/c/A1020004-181660B31388E106-05D66288?l=AAAzoW3n61XLEb9vTq12YQGzqtUCfc06KydaUGtu5RLdN2ixPBaRnVepSElrNGJNMgrSy0eSwClyULPCoDUmg4o9kccpTnOPkj7bQBwLlCBcTH8U11r1S8oNEPSoLAJBPXUwtXElxzxUwlmQ0aFAuEOEJIfhG5g0HUQpJkiXVcQN1U8BhF3AAAjaYsKr2AwAU8QaqEesapIW635JaV9frW%2BLT6bb9ykEjIf5nZUEFOK2sCQeaJmAu1brM%2Fh%2F%2BHii2X15n2VHJNiP0OO5dj5M0HzoX1i4WOoHTQ%2BqsmAOVle7IhyCJSV6Cn3gvD3mpYmLAKAAdyRVVvcATYc0ehKvcasgsMlG%2FycevGgPDPR8EHEW&c=AADKVCNrPCq97%2BLFGPOwVsvrPOemcm1BAD0cDqHlcyx456b7rygIAydPuWlnTuLHswuiMk%2B%2BVwvLKCCd7gmUmu1qtMAtegpxIllWPPISlc0M0KA9F%2BslplWpzPtn8A3f%2Bc4bWRI8f9OEXkzJ5fwaLfZDSLUpoBYFUZu2EEuhWOeXH9irRd%2FC%2BVus%2FeeRi48qb8dQe%2B5m2c%2BlElLP995m0Ylt3Mvo6jTcH31a%2BCHo4GPanl63ZVyaHAMVuBY55ZTYGzAUj9p6%2BgtYILk9qilo%2BJTS0ieboWksXC5Lz5wKFX1zqH0rBPMRlOmD4pOmJuprkuV6Ms5Xe%2BnJaUZn%2BJAcyMn3X%2FSPTt7d4%2BRgjoS2eyb%2BXzgaJg0DtIHPd%2BTaMcqDcMYDCiRjhdS1FVAnpie2rtz8y5E1ADmrBcinCNfMKfhFcAFHc%2BEcS0Z30PKlKiQOa1mhMJKNW%2BFbHM7c8u%2BuyT5ef7uQyZ20SQ%3D%3D)\n\nor Visit our store (https://eurekaergonomic.com/_t/c/A1020004-181660B31388E106-05D66288?l=AABtdbqJA%2BJckm98DalolTNrv9U9Tpy%2FWXp2xkDpQ96EUvY1w4YMihJxEZrAtOoWyavXj21VjjrBCKWuTjsifZs328xVzpPMkFQYqkoWe8PM5wLnUmIA6K4iUia9u0CKJXnpskRFrITc1%2F4%2BVyqThVW5Gw%2FNl6RPMCOSMrXrSYpFGgP6FsyFKDixT5AuSDHvomz2KO8h%2FCKALKspg6mwTg%2BSXBx2cw%3D%3D&c=AAC%2BgxENb9LFw0TkwiQweZpFjKpRrb%2BM%2B79jvMsS6gSg4C%2FyOoF3pXTNh0%2BNpkUkaDo8hZibMX6WSKjA0pQmOFmu8PykO64Wq%2B3Tswjh02QqMSvk5SkxibDE%2B4oOw%2B%2Bxgkwa80DyUD7y%2B3f6jQ8uFAQ3jKMLv3y4os25fzJT4cMsORYuM%2Fx1JtIW8tw1excr0hADeOdwbuHeZqGvScjsLV2YJvhYBA2KyZgKP79bTH8X0tTfZmUc7fBSlfblUueytPvYfc9pkd6WIqHHIHXqYZUk%2B0L%2F99k3OPZKt3COnmGFQhIhxVLp%2B50di7Zpb2jbFtolkOxMei5%2FhgCzDFc0uyoAAuzxn%2BxdSS4xznW4xFlohZOxFeNYrezevyKdGEKaQ5eM6idO%2FMf5ZWTwVbyqFyrMAegwghvCyni0s31PDGfOQaZZHYh0P%2FENcetzuV0%2FZevjtn3QSdNWbAaTeopc0nVxBsPe9SeYxQ%3D%3D)\n\nOrder summary\n\n White Gloves Service (EE-48958)(ERK-ED-TX63-WN-US) × 1\n\n$289.00\n\nSubtotal\n\n $289.00\n\nShipping\n\n $0.00\n\nTaxes\n\n $0.00\n\nTotal\n\n $289.00\n\n* For pre-order, we will ship it as soon as it becomes available. Once the order ships, we will send you an email with tracking information.\n\nCustomer information\n\nBilling address\n\nHopkins\nPO Box 34455\nBethesda MD 20827\nUnited States\n\nPayment\n\nending with 2242\n\nIf you have any questions, reply to this email or contact us at customerservice@eurekaergonomic.com",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 33128953665421,
+  "submitter_id": 33128953665421,
+  "assignee_id": 29227740004877,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-ed-tx63-wn-us",
+    "no",
+    "no_q",
+    "no_t",
+    "shopify",
+    "solution_answered_question",
+    "white-glove_service__quotes_and_service_time"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-48958"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "white-glove_service__quotes_and_service_time"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "927VE6-D3ZG0",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-48958"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "white-glove_service__quotes_and_service_time"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

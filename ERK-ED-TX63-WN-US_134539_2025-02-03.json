@@ -1,0 +1,307 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/134539.json",
+  "id": 134539,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "dschwedel@corallum.com",
+        "name": "David Schwedel"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2025-01-15T15:09:32Z",
+  "updated_at": "2025-02-24T01:01:38Z",
+  "generated_timestamp": 1740358898,
+  "type": "incident",
+  "subject": "Re: A shipment from order EE-49360 is on the way",
+  "raw_subject": "Re: A shipment from order EE-49360 is on the way",
+  "description": "My order was received. However, in the box, there were no electronic items? That was not delivered. In addition, we received two desks instead of just the one! So, someone needs to pick up the other desk return it to you, and your company, please needs to send me the electronic mechanism as I am now unable to work at home. Please let me know as soon as possible.\r\n\r\nDavid Schwedel\r\nFounder\r\nCORALLUM\r\n2525 Ponce de Leon Blvd., Suite 300\r\nDirect: +1(305)987-8780\r\nwww.corallum.com\r\n\r\n\r\nSent from my iPhone\r\n\r\nOn Jan 9, 2025, at 7:04 PM, Eureka Ergonomic <customerservice@eurekaergonomic.com> wrote:\r\n\r\n﻿\r\n[Eureka Ergonomic]\r\nOrder EE-49360\r\nYour order is on the way\r\n\r\nYour order is on the way. Track your shipment to see the delivery status.\r\n\r\n\r\nView your order<https://eurekaergonomic.com/_t/c/A1020004-18192BF8163A9DFF-4BE0E0EC?l=AAA0fQX9KapI11SfJJfKR3UfoNyxi4MOmjzcwuPekyJPTTi21Vv%2BtnX6gJCbgPlo6G%2BymaS2uSqFa5jJqQyK4GA2V4s7M%2FNKHUFUAw9HcafOJiuYzRVX%2FkfB8M5tzkFwv%2FxwIY%2F0zhnR%2B0%2BKumkEQTbVPs%2Bk9bUPZjedyHXNcNDYvFrLNmNicRpSq1fvFB3GY7FEyhI9gTEwPzO6JoaNh6hRnFQL%2FsDijSbOeyGs32utHqj32YT7A8Z6hGNJ5P0Uu4w1uzSVQAjQwwyc9%2FFdpb9zhEXFP1zYGHxPfMphs0iGB5brIkBYTOKHurNsUQA0mN5JqL2UKN2UgWuH5lP1p4FsAFqFNW%2Bdo7Xrs3o4oexg&c=AADV%2B5QCCb%2BHF5j6Sn6XuCw9CuXih8LP1fMP%2F0bPZAKgXmJEL1R4x4w%2BkQoM7hMDHEAyLkafZz1vkkrc%2FzWdVQUWCc%2BAq7%2Fj1W0fhh%2Ffk2fojQ2jf2mWyoFm0LMjy4InxJnsnY%2BqPEGMiGiLLqKhJxDd%2F047pc71m03M74ROv40HcK1C8XyAdRUlTZYwPBllqdNTQaPPi0pIZkweXA5Jl2n1SpsAv1XAm1k1bf0hEuuFKT%2FrjuSBXZGNJVrrZl2pA6rWhboth5bejChl%2FJCSi1NpxbHN2B5loHji3ZVDs1FeJXqvsoyYPyDMVGo4rOFXo9Z5K6X9myzO3zc0bqYApWsCsaMDZBQ33g4ui34TEa2XhMiLFzVvDOLwjWnlWWFwUItmvODMl4lqUriRnO0IDUT%2FgHRsnULu%2FMp%2BuAcuI4HiUF%2BNWyrSlKahLT8sBhNANVnswM1n2E4V1D0xm4xt9ETdMlv%2B7xJJGBBh9ejd%2BQ%3D%3D>\r\nor Visit our store<https://eurekaergonomic.com/_t/c/A1020004-18192BF8163A9DFF-4BE0E0EC?l=AACvu9MWR2lAUVaXNqiavUo4wm5zsrw%2F2JZPi9ZgBPtPCJbBphNhJJNlS6GTgdIZ03y2YGR%2FhAKIMS%2BRA%2FC%2FRFllXfEOzbj7KmpC5QCt4LGDhX6lAyUeBsq9KCEDP%2F39Oh3BsIu2sy%2BtaoVMG3RpxbM%2FUiOut4tVtmj7jT3onsKRPCD%2B3b0Kp7RfBBxQ8AQO7bcHL6eVUCMXRKjuKVPpRiWFgGGjzQ%3D%3D&c=AAAJtS05WRVyjgzo2%2FAuk8o525iEquD%2Fhi60O0v1L9R9zqzq1NBCXEIyE9mA3mCT8w2jK38U1GQJhlC7PMksKcx5zfNnHJm1mXVd%2BHA9eA9zZUUJoxKCL8m4ZJppNChViCq6N37tWVLMp%2Fv2lW%2BMMxd6HRxFmev0yif2fjyL2f6NyyJGXw2Twxh6hX0jHGGA8u6C%2FqLp8CV8Tg0Sz9FVbBmeXUDWNtPIXATwD%2FEa3NKPMaSroo%2Bz6k9t6piBWz875TipAL39iW9BmmenLHNHXAnP8pNeLWfT6xUl%2BxU4%2FpNk7JqJe2gY88sd1bBdSVfS04L2MSkSCizKjYC%2BNwGeKdy9c3hDNGji6Su3ksvrgimUEwkQFkMzRO6DyIMj2SM7wsoeKSsP43fxb5%2B5ipLIDLMQ0gya3%2Bq%2FDYT%2BqH2HypNnuUEmqFaQTJ2rA2VWQW2sLXliEpAtdSwGdxTW9srtOc0qqMdxHZtQpWlUeeogyw%3D%3D>\r\nItems in this shipment\r\n[https://cdn.shopify.com/s/files/1/0705/9849/2464/files/Eureka_Ergonomic_63x29_Executive_Standing_Desk_compact_cropped.jpg?v=1736252900]        Ark Executive Standing Desk (63\"x29\") × 1\r\nWalnut\r\n[https://cdn.shopify.com/shopifycloud/shopify/assets/themes_support/notifications/discounttag-23d3dd52a101179fb1461daaba6b77388b99b6154de85840a5245b8d3930a68e.png] NEWYEAR100 (-$100.00)\r\n\r\nIf you have any questions, reply to this email or contact us at customerservice@eurekaergonomic.com<mailto:customerservice@eurekaergonomic.com>",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 33499496605709,
+  "submitter_id": 33499496605709,
+  "assignee_id": 29227740004877,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [
+    23691218313485
+  ],
+  "follower_ids": [
+    23691218313485
+  ],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-ed-tx63-wn-us",
+    "missing_parts",
+    "no",
+    "no_part",
+    "no_q",
+    "no_return_product",
+    "no_t",
+    "no_white_gloves",
+    "responded_reshipment",
+    "shopify",
+    "solution_reship_item"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-49360"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "missing_parts"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_reship_item"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": "no_part"
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": "no_return_product"
+    },
+    {
+      "id": 33423132470925,
+      "value": "no_white_gloves"
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": "responded_reshipment"
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "L2KP52-Z10VR",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-49360"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-ed-tx63-wn-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "missing_parts"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_reship_item"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": "no_part"
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": "no_return_product"
+    },
+    {
+      "id": 33423132470925,
+      "value": "no_white_gloves"
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": "responded_reshipment"
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}
