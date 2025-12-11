@@ -1,0 +1,299 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/133198.json",
+  "id": 133198,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "brh785@yahoo.com",
+        "name": "Brandon Henkelman"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2025-01-04T02:10:51Z",
+  "updated_at": "2025-01-27T00:01:37Z",
+  "generated_timestamp": 1737936097,
+  "type": "incident",
+  "subject": "Re: Order EE-49158 confirmed",
+  "raw_subject": "Re: Order EE-49158 confirmed",
+  "description": "Hello,\nI forgot to apply my new user discount code to this order (code \"newuser05\").  Is it possible to have the discount applied to my order?\nThank you,Brandon\n    On Friday, January 3, 2025 at 07:06:00 PM MST, Eureka Ergonomic <customerservice@eurekaergonomic.com> wrote:  \n \n   \n|  \n|   \n|  \n|      Sale | Best Sellers | Shop by Room | New   |\n\n  |\n\n   |\n\n \n|   \n|  \nThank you for your purchase!\n \n Order EE-49158 \n \n\n\nWe're getting it ready to be shipped and will notify you once it's on its way. \nFor orders with both in-stock and pre-order items, in-stock products will ship first, unless you'd like everything to ship together. Just let us know!\n \nWe take a lot of pride in our products and want to make sure you have the best possible experience. We are here to help with any questions that crosses your mind during the shipping process and after you receive your product, available by phone through 844-416-2090 between the hours of 9am to 6pm pst every day, or can answer through our chat at eurekaergonomic.com 24/7.\n \n \nYour order will be arriving by one of our selected carriers and will be contacting you directly and may display as an unlisted number. They will make up to 3 attempts, if no confirmation can be provided to the carrier, the order will be returned back to us.\n \n \nDue to shipping through a freight carrier, these items are excluded from our 30 Day Free Return and you will be responsible for the return shipping fee if you choose to return the item due to unrelated issues. Click here for full return policy \n \n|   |\n|  \n| View your order |\n\n \n| or Visit our store |\n\n  |\n\n  |\n\n   |\n\n \n|   \n|  \nOrder summary\n  |\n\n \n|  \n|  \n|    |  Ark EX Executive Standing Desk (60\"x26\") × 1\n Black\n    NEWYEAR100 (-$100.00)    |   \n $1,699.99 \n  |\n\n  |\n\n \n|  |  \n|  \n Subtotal \n  |  $1,699.99  |\n|  \n Shipping \n  |  $0.00  |\n|  \n Taxes \n  |  $0.00  |\n\n \n|  \n Total \n  |  $1,699.99  |\n\n \n You saved $100.00 \n  |\n\n \n* For pre-order, we will ship it as soon as it becomes available. Once the order ships, we will send you an email with tracking information.\n  |\n\n   |\n\n \n|   \n|  \nCustomer information\n  |\n\n \n|  \n|  \nShipping address\n \nBrandon Henkelman\n2856 Eagle Circle\nErie CO 80516\nUnited States\n  |  \nBilling address\n \nBrandon Henkelman\n2856 Eagle Circle\nErie CO 80516\nUnited States\n  |\n\n \n|  \nPayment\n \n  ending with 9214\n \n  |\n|  \nShipping method\n \n Free Ground Shipping \n  |\n\n  |\n\n   |\n\n \n|   \n|  \nIf you have any questions, reply to this email or contact us at customerservice@eurekaergonomic.com\n  |\n\n   |\n\n   |",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 33202985592333,
+  "submitter_id": 33202985592333,
+  "assignee_id": 29227740004877,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-e33511-og",
+    "no",
+    "no_q",
+    "no_t",
+    "pricing_and_discounts__product_pricing",
+    "shopify",
+    "solution_refund_partial"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-49158 Complete"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-e33511-og"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "pricing_and_discounts__product_pricing"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_refund_partial"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "VVZ167-2KXWZ",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-49158 Complete"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-e33511-og"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "pricing_and_discounts__product_pricing"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_refund_partial"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

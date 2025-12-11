@@ -1,0 +1,298 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/134613.json",
+  "id": 134613,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "kabarney@gmail.com",
+        "name": "Kara Pierce"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2025-01-16T01:41:29Z",
+  "updated_at": "2025-02-12T17:02:24Z",
+  "generated_timestamp": 1739379744,
+  "type": "incident",
+  "subject": "Re: A shipment from order EE-46822 is on the way",
+  "raw_subject": "Re: A shipment from order EE-46822 is on the way",
+  "description": "Hi - I received a text message and email from fed ex regarding scheduling a delivery for a package. Wanted to check here first, because all of the information you have sent stated that someone would CALL to schedule. There are a lot of scams using fedex as bait and I just wanted to confirm with you that this is part of the normal process. Also, the email/text did not include the order number you provided. This is the message from fedex:\n\nYour shipment 284333048117 (https://click.message.fedex.com/?qs=4e4be66d506b36d3df83e2c691b341d77d578be37af153a1b9a702afdb7ce93a5a797dc310fcddc5243f96b0fc9c8136710244240f63f09b9540ef5a62d565cd) is in transit to you.\nPlease schedule your delivery details.\n\nIt's easy. Follow the link below to choose your delivery date and time. Deliveries are scheduled for two-hour windows. Click below to get started.\n\n\nOn Wed, Jan 15, 2025 at 1:23 PM Eureka Ergonomic <customerservice@eurekaergonomic.com> wrote:\n\nOrder EE-46822\n\nYour order is on the way\n\nYour order is on the way. Track your shipment to see the delivery status.\n\n \n\nView your order (https://eurekaergonomic.com/_t/c/A1020004-181AF7607DC0C962-EA31F5EC?l=AAC7pdkgE%2B0nF7k9S3RRIhgdB9T8xgru7jr%2BqK6l2znRT2r6U3zhpNT1HaezFTzMLTlwqOPiOozZ%2BUI0zBFovNF5b1h1z4hOwQNqB%2BA3imPXO10Tw%2Fzq0OJfPRhg9rLpullsFsZL6wDAo1o%2BnPCV4P40HI06rwYnJyO%2FL3ymxTiVIBm39sB9jhzyOneybGneOpMPxv0TxIP0oLSpusUKPH2WC6EYCbphkW5IduHQZSTVvc7skaARrnpD6qZJvF12ol0Pa7v4VDqGGKl6VlspjNaiB%2B8MxGS%2B48nKUnwT82%2B5ldfMsmW23BP%2BXXcAqlFkoVlRMlYYv1B3Bd3kLa4VCAmanJsmwkGIQKKRrewosCWM&c=AAAYPDwaKXeQT6YL55kel7grLRrJlnsjQamBKZNdVXdHy55iiz9nqUE7HTRfRAb3ivnLsoyAJN87xzuy0ip6DZTN0z6%2FQ%2BSo2yzFy%2FdbfbhfO2mvy7GC9xVimpflAX2BgzCUCnmqhrBA8eik3ywB5C3eXtid8AKle98wHW58Dkb%2FSPrePlkucZ9tlxPIKTk0ONLAH1ctlwK1sZECV9nsQoeTDJ%2Bi%2BRrUdE5D4eBXQ5icb4fxcYaqaQ%2B3KFz2NLjucS%2B4yZIMyMVF9IKoRpH1bf9KD4v83FoDWVD1yUkPXWDZvMkhsayw6qNyiG2thjuUJko%2BuzrZm6MVj2ZRHYwbaf5QQcnIk3EpAbtouIntDSp8HqmzwvQDt7JnZVxzkmhoeQ%2BUi58hrYBfIjJKvQDFuhF5eWUDWLvi4qfcVgrcSSly9c9qYv8s8XHq8C3W8ZxnPusb0EXQE7F8auhNGSDJEyj3bGuVu8LM0eXjePwF3w%3D%3D)\n\nor Visit our store (https://eurekaergonomic.com/_t/c/A1020004-181AF7607DC0C962-EA31F5EC?l=AAB28COedOcwS4qn%2FVz0bZJcVqFn%2BMQkvtzN2oVy5CY3Aw%2FBtBu%2ByTG5s7hqDELy8bJEQ7l3RaKN5OHAkQMn0lOqUokgw8TY0oC8gpo5v2uQhikhD%2Btsyv35W7o5qnrI41XJLKrgTnIdpJG18WSyRnrVS09zTh9eTYEM%2BALplbDCSD8Op2hn0KClDcJjQddQ%2BJUvXTRyO8nKGnGztw4%2FC1%2Bpx5GfTA%3D%3D&c=AABhIszfWVpVT0dEAB6%2Bn9%2Ff%2B%2BA%2FKsoBNrYU666x3GbNM9HWKf5EmBJSj0hf2nlQTzz7Dl1VY6aBvamhAxrJgefmA9hs%2B6L2c5ffODPLl%2Fl1aKF6um4T%2BOrkZVavisse4vLLHnj%2BJ%2FrYakznWdF%2Fjca%2Fksg8b%2B%2BWF83GJ9RTQ7fX0Gx0HFUYZ%2B7RWHbvD2mlnti%2F%2BFuwMry6ZmPv7o2jeBqB5xo%2BxhhQuLZzCOVtJE2uaN8MOPQdKfxfuKzEh1W8vkCoSZWM7hDCZ0soARl%2F1bw0RQFrywIxWhIdxDpZz%2BjOzeFw1Arh1Oo8%2B%2B2gZLskb1LfBBo7wHI6i1yJdZVvssDjsmWcOA3ErJr9ddwC0DhLoatqfxMyO0q8Vp9tT0jj0Ea0J%2BbdoNUxj6rQhJNp0nQOhfavY4VEZYvI8wLFTqBbSLxyvn8m0XeiAZcpaeNEB5YoR8jEKo73nmaHpSUGuJmREW6mUQ55IoBpsy8ojQ%3D%3D)\n\nItems in this shipment\n\n Ark EL, 29\" Display File Storage Cabinet, Oak × 1\nOak\nNEWUSER05 (-$13.49)\n\n Ark EL Executive Standing Desk (60\"x26\") × 1\nOak\nNEWUSER05 (-$64.99)\n\nIf you have any questions, reply to this email or contact us at customerservice@eurekaergonomic.com",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 33521300466061,
+  "submitter_id": 33521300466061,
+  "assignee_id": 418155362151,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "delivery_and_address_change__scheduled_delivery_requests",
+    "erk-e33503-og-us",
+    "no",
+    "no_t",
+    "shopify",
+    "solution_answered_question"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-46822"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-e33503-og-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "delivery_and_address_change__scheduled_delivery_requests"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "925232-MEK5E",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-46822"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-e33503-og-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "delivery_and_address_change__scheduled_delivery_requests"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

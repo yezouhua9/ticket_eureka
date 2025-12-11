@@ -1,0 +1,299 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/137109.json",
+  "id": 137109,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "spider.milesreid16@gmail.com",
+        "name": "Miles Reid"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2025-02-14T15:15:36Z",
+  "updated_at": "2025-03-07T01:01:27Z",
+  "generated_timestamp": 1741309287,
+  "type": "incident",
+  "subject": "Re: Update on Your Pre-Order",
+  "raw_subject": "Re: Update on Your Pre-Order",
+  "description": "Ok, this option showed in stock online and I’m on a deadline for a video set.\n\nIs this one available? Ark EL Executive Standing Desk (60\"X26\")\n\nIf not do you have something else close to these?\n\n \n\nMiles Reid\n\nVice President – Training\n\nPhone: 205-540-1056\n4485 Laughlin Dr. | Mobile, AL, 36693 \n\nmiles@trinovainc.com | www.trinovainc.com (http://www.trinovainc.com/)\n\n \n\n \n\n \n\n \n\nFrom: Eureka Ergonomic <customerservice@eurekaergonomic.com>\nDate: Friday, February 14, 2025 at 5:06 AM\nTo: Spider.milesreid16@gmail.com <Spider.milesreid16@gmail.com>\nSubject: Update on Your Pre-Order\n\n \n\nDear ReidMiles,\nThank you for your order! We're reaching out to keep you informed about the status of your pre-order.\n\nYour item is currently out of stock and is in the \"Awaiting Stock\" phase as part of our pre-sale collection. This means the product is not yet available in our inventory but will be restocked soon. The current estimated arrival date for your order is Mar 18, 2025. Rest assured, our team is working hard to ensure it arrives on or before this date.\n\nWe greatly appreciate your patience and understanding while preparing your order.\n\nIf you have any questions or need further assistance, please reply to this email or contact us at customerservice@eurekaergonomic.com.\n\nThank you for choosing Eureka Ergonomic!\n\nBest regards,\nThe Eureka Ergonomic Team\n\n \n\nIf you have any questions, reply to this email or contact us at customerservice@eurekaergonomic.com",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 34285698016909,
+  "submitter_id": 34285698016909,
+  "assignee_id": 29227740004877,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-e33501-og",
+    "no",
+    "no_q",
+    "no_t",
+    "product_inquiries__pre-order_product_information",
+    "shopify",
+    "solution_answered_question"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-51225"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-e33501-og"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "product_inquiries__pre-order_product_information"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "92DGL6-1DNJJ",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-51225"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-e33501-og"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "product_inquiries__pre-order_product_information"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

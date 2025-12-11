@@ -1,0 +1,304 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/136402.json",
+  "id": 136402,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "cgross@staffordsmith.com",
+        "name": "Cris Gross"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2025-02-05T21:46:30Z",
+  "updated_at": "2025-03-03T18:02:31Z",
+  "generated_timestamp": 1741024951,
+  "type": "incident",
+  "subject": "Re: A shipment from order EE-49023 has been delivered",
+  "raw_subject": "Re: A shipment from order EE-49023 has been delivered",
+  "description": "Customer service -\nI assembled the Ark light desk from my order and one of the vertical support legs (labeled part #9) was manufactured with the wrong angle and needs to be replaced. My preference is for all four parts of this assembly to be replaced to eliminate the wrong one being sent. Please advise on replacement parts ASAP. I've attached pictures for your reference.\nThank you\n\n\n\nCris Gross | VP Sales and Marketing\n\nStafford-Smith, Inc. | cell: (231) 590-8126\n\nWebsite<https://www.staffordsmith.com/> | Catalog<https://staffordsmith.catalog.fescreative.com/?pid=ODg8801352&v=1.2> | Dealer Of The Year<https://zmba.omeclk.com/portal/public/ViewCommInBrowser.jsp?Sv4%2BeOSSucwgSFEjEirUqaRKYp3K6n3pBrfx5lRafapdfcENh1fq5Z5ZwuywwvnpW2cP9n7CgPk%3DA> | Who We Are<https://staffordsmith-brochure.fescreative.com/?v=1.1>\n\n\n\n________________________________\nFrom: Eureka Ergonomic <customerservice@eurekaergonomic.com>\nSent: Saturday, January 18, 2025 11:06 AM\nTo: Cris Gross <cgross@staffordsmith.com>\nSubject: A shipment from order EE-49023 has been delivered\n\nThe last item in your order has been delivered Order EE-49023 The last item in your order has been delivered Haven't received your package yet? Let us know   View your order or Visit our store\nExternal sender <customerservice@eurekaergonomic.com>\nMake sure you trust this sender before taking any actions.\n[Eureka Ergonomic]\nOrder EE-49023\nThe last item in your order has been delivered\n[https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fcdn.shopify.com%2fshopifycloud%2fshopify%2fassets%2fthemes_support%2fnotifications%2fquestion-a6317f4ae913ee8f7a1baf241806a4a2917e920c56d330e476cc94fccf8bef56.png&c=E,1,05dbKLRQeY3NLx1AWemgU-Ap_80mHKfanZueKgdiMo1NhXrsQuVd10slqRWYg8IB5SpvR-jCJ8m_XwaAVMy-DvtYWDYPavNrMwkXUfY7azeXBjbEhVQ,&typo=1]\n\nHaven't received your package yet? Let us know<mailto:customerservice@eurekaergonomic.com>\n\n\nView your order<https://linkprotect.cudasvc.com/url?a=https%3a%2f%2feurekaergonomic.com%2f_t%2fc%2fA1020004-181BD51416FE8564-AB43F482%3fl%3dAACcRwzjqKLgCGZfWeyUfkHLt9Lb8d5OwvTVyfcCjhc%252BvgWnBu4QONK3U0OV3880ssZjDZ63dveuy9ZbycrcDQN%252BXFfQtLQGZyHXZK7DrDEVEGk5qpfDFGJqo2ZOcT1b99%252B24HyV4qnJOn14Ptgb2u7Ov7xth6GdH%252BhanFX1x85dPTKq0Waid17iiW868LTuRp0NoTsFOx7vc0zE7ncQoK6LYjAvqzDFem3xMzcAh3KQdSE3Yk6Nad0GfJ%252Fw94M3pmAIwpXM9HeP29OOo77OwwoL1MySmhHnTxz2KB5p%252BCsoZEkPXtfm%252FYyA85NmyUVe38gKm2Sb5NF6PqZDq3ArhSYOU%252FbMbwHhBoSctVTRlGTk%26c%3dAAAHeJu7woTPxUoK%252FiHuFPZtiIC09i0Yf%252BN4QQqufNcq4VU3%252FI77zRrKfitgwLi2raInM0XvNQT2GNe%252BWKTWheBjl0xxjvBq5jAo4ETwiSx9XytnvOfSrGuq2vlecUGq5t4T0HK3nVZaUZbNtCTlaOfus%252FzzS5v%252F2HlMpDe05ka7sf%252BZer0QPJy8piYTgd%252FI2dYnbZSnaKoR%252BgtOhUbZWK0dNKhlcx3WP%252FMZtaBe%252BwIvXJjsQtjhtwmMcPZnFUEtAUSUZrQXjOFFSfbtNS%252F3nmKZutX41DZXd8V4tSTFmm8m39C%252Bgp5lKmoyxIC1R6sMTsmLxW96MjoYJIKWicN8rbthD01LtnxVTso9LwLjJ%252BBICUaTaWVZpkesijdBMOWA4AQhZ5yie2nwXRVkh%252BVn6eJtxXZqZokmFgL1%252F8ISKrwWynCHA%252B3C7GGOsvdoUyydAE4guWuItLoyO5TsSRip4qh62bSUg6U%252FSxff8xz3Ug%253D%253D&c=E,1,yG6W9fjntprNO71aQeDOJ1I0RDa1lX6OgCtI60RyONvdwT7E3QrhABcUiwdnX80mOd5yyxlFrLkdtQ4GUSeUXPND18C3bjW0VowX08w4wFyEDLILeGfGbdzGPoEr&typo=1>\nor Visit our store<https://linkprotect.cudasvc.com/url?a=https%3a%2f%2feurekaergonomic.com%2f_t%2fc%2fA1020004-181BD51416FE8564-AB43F482%3fl%3dAAAdnAjV1XqOLGvx9XFnoibfCREw3QXIzUxbcFvSBOo4AEsF4K7EJjiJwasdUL%252Fk6dP%252F1A9aSq0S83b5lNmUSWoL2bP0V3lPAFAMuJ%252FIKL2LDPo5CxgqIywz%252FwWKcAWNPkcp0pQB9mlWmQDBOUgpMtzQeXh4SRymLerGo3VxlTB%252F2vV0MR8hbrRx6SFzjHWdecnaxcXqa0XQvsLg9%252FfXH7bMsbauhA%253D%253D%26c%3dAADc1RlDxJN0nQBI0AD4MrdsU6XzY1SlugOanIuioCyUh4T3Mn92IgOqUnH0zZmthgzB7ZvC8BHZ7k4Y%252BufbGcfnXnHqyotwkyj9W0xIxTzFsyNxpf1MuVWXLqiX44cRF%252FTkVY7tKzTMknHTSqkFytP8XfCauyCg8X8JOnlYjonyCP9us6zjNwWpzM8%252FZ5PEoaNyBT5fBzh6VP7AR%252FFmE9cJ1pkCx2DUDvdllT%252Fj0GDAQ%252F%252BgfeGXStJG%252BelJm5rrluQCck4OGZc1QPhKY2vKVJrHIm8a0kHHjdq2jsl9Xns7YthMlfA3KI66nl4oUb9t46lJvfGVlWdytijqxIr%252BpMe%252FLzmFNbVzbo7md2jFE4FDn793SsBX0YE3D%252BUWv5zCO5KN%252Fai%252BwoXi%252BOARWQ7%252B1uAqoQChKtqzbab2KanAGtl6Aor2DB2i%252BPYPU8mZ9Ov3eTPlaC%252BsqVXZbZsJRciJtLtEA1d3ICh74vOFasPHgw%253D%253D&c=E,1,ost7xPfArbP3UHgXoBD_hU6afrJucB6nDPp7qqYlyoHIPaIzWOVGH9MwENIxuzfwtC_kC9QjKfTtUbvsCj3Z_P11rrhQixHuIgkZFjXaXOvC&typo=1>\n\nother tracking numbers:\n284420500483 <https://linkprotect.cudasvc.com/url?a=https%3a%2f%2feurekaergonomic.com%2f_t%2fc%2fA1020004-181BD51416FE8564-AB43F482%3fl%3dAADpnmEldYt4saZhzIfhxXJcYlly9tlM25Utb3%252Fo8C49lHWJ%252FeC2vbf3Px03RGH3OGvdbSQL8gPlBpX2QrF3eFV12xotyljwvI7%252FngDvsKkp4hPf2626MyvdfHPopeUVd3m5EN0scI0KjgVhYJyrhff2zkJz1nFkeRA19lU2iY%252BX9HlLkFAkrPQ%253D%26c%3dAAC9LwWjCrXtWviLOXeydJz3r5tMumAOQH%252FQN4tZ%252FgDSG9%252FDHf4v6y%252BKFxLD%252BRuMhkvsXe%252FoHWAriYSzC3CGLXm4Pqu27g1eQNq0AL6Umm4AFjDOBkvEn5xLqW0PfQTfCM00%252B2G%252B6Rvaj%252BMRPdL110uDufQm32xWBgK5YpYxOE4MqTbI9p6mcDmjlaokVc7qSAyxlfurYX0hWnhQGoLLtmIN2BtpnMlJiQlrmKRd4VeDRV8OfT2OLypg7WJ9gmYRZ6hZOl8maF%252BlQMtXbJsLDO8yxUI%252FPZZB%252BkYaixHEXKt%252FeJ3Ia15V%252Bu0OmMb3FpRpXLo6uCn4Vva60YzT1dPmNZwYpBT2nB6uDQsw1DFTRwMNctxZvR5QQPy5MwTv7%252F0NrwBeQKt73xfjh%252F6fJgpK1iGP01bhUVL4V9TShH%252BSGHixP97xubWd%252Fnbuxtvl%252BXVP2uy6udLmJeglWIjzek%252F6AqF1f%252ByMpx8n%252FIy5ohHVgA%253D%253D&c=E,1,ezoPKX3iyBJ5a8dRRDN82fvDyGrYo5buG2-hcaZCncN4BZyc3_FyvRfD_JmhvJ1NCS7T5VMAvU3C80sX4TA-u7psaMYTebjo0G7m-dtj4MVZF9OJy68zwZk,&typo=1>\n771463461088 <https://linkprotect.cudasvc.com/url?a=https%3a%2f%2feurekaergonomic.com%2f_t%2fc%2fA1020004-181BD51416FE8564-AB43F482%3fl%3dAAAokFPQJ1pNwrMf4KX%252BCEZtf8kYDfMjZaoLaOcPVMDK7uFfFB7HaCWJU587SkUeHgtNrypuIlMUHqgrS4KBubMlCHi5rW7eZHkzr7oBy7TpTEt1Nz2jzBRu8xHwCD%252FZ%252By80FCfE53QiCuY3%252BZr5%252FG%252B8euWuXGjcLfBCEhX3i1vXTA6ZrpALfCE%253D%26c%3dAACZtvEr7bbIgsddFkKGXBm3M1l9S43drMbBTqcx0vCqB0%252FYKIA1niL%252Bv3omZlQBMG6oQYz7wv%252Fk4zl%252FXLMl8zkxO7fPfVCBE47MTCykABoLe%252BeQ7Anes2ZidDbQL4HaV5jKqxhm%252FfxgKviyaS%252Fn8QOOnE1x%252FGpZTVUYgKl99cj2WsYGo0ICnJ0EFSw8iQCtOWKzAd0unRJ3MzgH2cNzkX6jIBZgLWJQPLTNStMTHXs1qP9PKgOs77iN3iQhJa8SOLmmaLU2FFltDdxeyKz8Ej9DLuL4b7ikwWoaAEmz66TetuOUvUfS3XdaRrracIYyOlF57S5XTmOx5xX3F3sN7a%252FVspWz%252Bx6wMmuwCrJW%252BORv5n%252BYLpFHzS8yTwJfO%252B1Y1KywyDYgHOl%252BTb9czkuHJ5A51zHiHHn9Dp%252F5pcmlY3jURnNtTXyNLaBiNdveAEdlJHSf%252BcIjR9SjRYwe1wDF9EdJesYZiRRt%252FRjMft4zMA%253D%253D&c=E,1,JV_1fP_JPdf3n8EGjrkYT6bnczmWyC-WdI55r-pfIwe8eycGeqrkrBh5i6wrG3_bPb65rzIK63hDV8mSkNREAv9O-4JgTM4y6k5p-1XIdYMWCS0PGSBl4farXWDv&typo=1>\n\nItems in this shipment\n[https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fcdn.shopify.com%2fs%2ffiles%2f1%2f0705%2f9849%2f2464%2ffiles%2fEureka_Ergonomic_Ark_Lite_63x29_Standing_Desk_Cherry_compact_cropped.jpg%3fv%3d1736252841&c=E,1,RtDcjhQ8TGfSInrPPoj0T48_565Us-FFdOiIDknNAvD2tkK-KwcB2lungEeth0UaoXzovZqdn-k7H9dh3F6ROJNghJFzofknvgt4RHs9tw,,&typo=1]        Ark Lite Standing Desk (63\"x29\") × 1\nCherry\n[https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fcdn.shopify.com%2fshopifycloud%2fshopify%2fassets%2fthemes_support%2fnotifications%2fdiscounttag-23d3dd52a101179fb1461daaba6b77388b99b6154de85840a5245b8d3930a68e.png&c=E,1,9WQBrcWrVtmS-GDUFxW1mFgMK8jFffKENdix01ucca4hly1bADK2NPJnAEGa194P2UeV8SyJ03jynZdK3s9COc9WLgFieHkMiLEbI3HJfBpFK_E,&typo=1] NEWYEAR180 (-$43.45)\n\nIf you have any questions, reply to this email or contact us at customerservice@eurekaergonomic.com<mailto:customerservice@eurekaergonomic.com>\nIMG_9301.jpg\nIMG_9302.jpg\nIMG_9307.jpg\nthumbnail_IMG_9300.jpg",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 32445850025229,
+  "submitter_id": 32445850025229,
+  "assignee_id": 29227740004877,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [
+    23691218313485
+  ],
+  "follower_ids": [
+    23691218313485
+  ],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "erk-od08-c-1-us",
+    "no",
+    "no_q",
+    "no_t",
+    "responded_part",
+    "shopify",
+    "small_parts_damaged",
+    "solution_answered_question"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-49023"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-od08-c-1-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "small_parts_damaged"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": "responded_part"
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "WVMR4M-WERRM",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-49023"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-od08-c-1-us"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "small_parts_damaged"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": "no_q"
+    },
+    {
+      "id": 33088375509133,
+      "value": "responded_part"
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": null
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}

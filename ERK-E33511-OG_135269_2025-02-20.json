@@ -1,0 +1,379 @@
+{
+  "url": "https://eurekaergonomic.zendesk.com/api/v2/tickets/135269.json",
+  "id": 135269,
+  "external_id": null,
+  "via": {
+    "channel": "email",
+    "source": {
+      "from": {
+        "address": "eric.williams@integrityfiresafetyservices.com",
+        "name": "Eric Williams"
+      },
+      "to": {
+        "name": "Support",
+        "address": "customerservice@eurekaergonomic.com"
+      },
+      "rel": null
+    }
+  },
+  "created_at": "2025-01-22T22:22:05Z",
+  "updated_at": "2025-03-12T19:02:38Z",
+  "generated_timestamp": 1741806158,
+  "type": "incident",
+  "subject": "Order EE-49730",
+  "raw_subject": "Order EE-49730",
+  "description": "Good afternoon,\n\nWe just received this order and began to unbox when we realized it was the wrong desk.\nWe ordered the Ark EX Executive Standing Desk (60\"x26\") Black and we received an ARK EL, pics attached. \n\nCan we please get the correct unit shipped as quickly as possible? \nHow would a return of the incorrect unit work?\n\nThanks!\nEric\n\n\n\n        Eric Williams\nChief Executive Officer\n\nIntegrity Fire Safety Services (https://www.google.com/url?q=https://integrityfiresafetyservices.com/&source=gmail-html&ust=1638546767580000&usg=AOvVaw1s15Bof1ombzOB967qU0sN)\nCell:  720.490.7813   Service:  303.557.1820 \neric.williams@integrityfiresafetyservices.com\nwww.integrityfiresafetyservices.com (https://www.google.com/url?q=https://integrityfiresafetyservices.com/&source=gmail-html&ust=1638546767580000&usg=AOvVaw1s15Bof1ombzOB967qU0sN)",
+  "priority": "normal",
+  "status": "closed",
+  "recipient": "customerservice@eurekaergonomic.com",
+  "requester_id": 30909019836941,
+  "submitter_id": 30909019836941,
+  "assignee_id": 404717562412,
+  "organization_id": null,
+  "group_id": 360012476692,
+  "collaborator_ids": [],
+  "follower_ids": [],
+  "email_cc_ids": [],
+  "forum_topic_id": null,
+  "problem_id": null,
+  "has_incidents": false,
+  "is_public": true,
+  "due_at": null,
+  "tags": [
+    "17.order_returns__wrong_product_or_incorrect_quantity_shipped",
+    "erk-e33511-og",
+    "no",
+    "no_t",
+    "responded_reshipment",
+    "shopify",
+    "solution_answered_question"
+  ],
+  "custom_fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-49730"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-e33511-og"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "17.order_returns__wrong_product_or_incorrect_quantity_shipped"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": "responded_reshipment"
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    },
+    {
+      "id": 41839529461645,
+      "value": null
+    },
+    {
+      "id": 41839562134669,
+      "value": null
+    },
+    {
+      "id": 41839562136973,
+      "value": null
+    },
+    {
+      "id": 41839576958349,
+      "value": null
+    },
+    {
+      "id": 41839576958733,
+      "value": null
+    },
+    {
+      "id": 41839591885453,
+      "value": null
+    },
+    {
+      "id": 41839591907213,
+      "value": null
+    },
+    {
+      "id": 41839591910285,
+      "value": null
+    },
+    {
+      "id": 41839591914765,
+      "value": null
+    },
+    {
+      "id": 41839591917197,
+      "value": null
+    }
+  ],
+  "satisfaction_rating": {
+    "score": "unoffered"
+  },
+  "sharing_agreement_ids": [],
+  "custom_status_id": 3740371,
+  "encoded_id": "VV29NL-XJ60R",
+  "fields": [
+    {
+      "id": 360035386891,
+      "value": "EE-49730"
+    },
+    {
+      "id": 360036048231,
+      "value": "shopify"
+    },
+    {
+      "id": 360035265932,
+      "value": "erk-e33511-og"
+    },
+    {
+      "id": 14609897500813,
+      "value": [
+        "17.order_returns__wrong_product_or_incorrect_quantity_shipped"
+      ]
+    },
+    {
+      "id": 14751510608525,
+      "value": [
+        "solution_answered_question"
+      ]
+    },
+    {
+      "id": 360035898512,
+      "value": "no"
+    },
+    {
+      "id": 32028893924749,
+      "value": "no_t"
+    },
+    {
+      "id": 40375002700557,
+      "value": null
+    },
+    {
+      "id": 31649669698061,
+      "value": null
+    },
+    {
+      "id": 33088375509133,
+      "value": null
+    },
+    {
+      "id": 34837194805901,
+      "value": null
+    },
+    {
+      "id": 33423131024141,
+      "value": null
+    },
+    {
+      "id": 33423132470925,
+      "value": null
+    },
+    {
+      "id": 33459246563725,
+      "value": null
+    },
+    {
+      "id": 33459239944717,
+      "value": "responded_reshipment"
+    },
+    {
+      "id": 33641866441357,
+      "value": null
+    },
+    {
+      "id": 33423057164941,
+      "value": null
+    },
+    {
+      "id": 33709321705101,
+      "value": null
+    },
+    {
+      "id": 34191870561037,
+      "value": null
+    },
+    {
+      "id": 33641642761613,
+      "value": null
+    },
+    {
+      "id": 360038574791,
+      "value": null
+    },
+    {
+      "id": 16433042543757,
+      "value": null
+    },
+    {
+      "id": 16433057448461,
+      "value": null
+    },
+    {
+      "id": 18562027051533,
+      "value": null
+    },
+    {
+      "id": 24007099873037,
+      "value": null
+    },
+    {
+      "id": 34301776832653,
+      "value": null
+    },
+    {
+      "id": 34358728742413,
+      "value": null
+    },
+    {
+      "id": 40901516755341,
+      "value": null
+    },
+    {
+      "id": 41839529461645,
+      "value": null
+    },
+    {
+      "id": 41839562134669,
+      "value": null
+    },
+    {
+      "id": 41839562136973,
+      "value": null
+    },
+    {
+      "id": 41839576958349,
+      "value": null
+    },
+    {
+      "id": 41839576958733,
+      "value": null
+    },
+    {
+      "id": 41839591885453,
+      "value": null
+    },
+    {
+      "id": 41839591907213,
+      "value": null
+    },
+    {
+      "id": 41839591910285,
+      "value": null
+    },
+    {
+      "id": 41839591914765,
+      "value": null
+    },
+    {
+      "id": 41839591917197,
+      "value": null
+    }
+  ],
+  "followup_ids": [],
+  "brand_id": 360004424631,
+  "allow_channelback": false,
+  "allow_attachments": true,
+  "from_messaging_channel": false,
+  "support_type": "agent"
+}
